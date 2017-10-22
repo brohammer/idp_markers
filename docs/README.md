@@ -32,3 +32,25 @@ Blastn parameters were modified to maximize sensitivity:
 This script, `munge/blast.pl`, was submitted through a PBS wrapper, `munge/blast.job`.  
 
 Blast outputs: `data/b73_blast_output.txt` and `data/ph207_blast_output.txt`.
+
+## Convert coordinates  
+
+Use the blast hit coordinates to get the target sequence between the forwared and reverse primers:  
+* `munge/make_bed.pl` - This script will convert the blast output to a bed file .
+*  `munge/get_fasta.pl` - Use this script to call bedtools and get fasta from BED  
+
+The previous scripts can be ran together in the `munge/get_fasta.sh` wrapper. 
+
+## Pairwise alignment  
+
+With both target sequences in hand, now we need to align the B73 and PH207 sequences to see which markers have indels and might make good diagnostic markers.  
+
+I am using the Emboss needle program to perform the alignment:   
+* `munge/run-needle-aln.pl`  
+
+This script makes a system call to Java program called `msa2vcf`, which is a part of the jvarkit (~/software/jvarkit/dist/msa2vcf.jar). This program will parse the output of the MSA output and produce a VCF of variant sites. 
+
+## Parsed output  
+
+This vcf output is pretty ugly and hard to read. Use the `munge/pretty_mismatch.pl` script to make this output more readable. 
+
