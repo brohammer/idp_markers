@@ -1,0 +1,62 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:06
+# Commandline: needle
+#    [-asequence] /tmp/3xW1WIB2BJ
+#    [-bsequence] /tmp/iqzXQ6zTm4
+#    -gapextend 0
+#    -auto
+#    [-outfile] BM347632_BM347632
+# Align_format: srspair
+# Report_file: BM347632_BM347632
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BM347632
+# 2: ph207_BM347632
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 325
+# Identity:     325/325 (100.0%)
+# Similarity:   325/325 (100.0%)
+# Gaps:           0/325 ( 0.0%)
+# Score: 1625.0
+# 
+#
+#=======================================
+
+b73_BM347632       1 AGAGCAAGTGGCCTATACCGTAGCTAGTTTTGGCACTCAAAGTCTGCTTA     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM34763      1 AGAGCAAGTGGCCTATACCGTAGCTAGTTTTGGCACTCAAAGTCTGCTTA     50
+
+b73_BM347632      51 TAGTACTTGCAAATGGAACCATACCTGACCCTCTTACCATTGATGACATG    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM34763     51 TAGTACTTGCAAATGGAACCATACCTGACCCTCTTACCATTGATGACATG    100
+
+b73_BM347632     101 AGTTAGCTCCTCGAAGTCGTTCTAGACTTTAGATCTGGGTGCCCTCTTCC    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM34763    101 AGTTAGCTCCTCGAAGTCGTTCTAGACTTTAGATCTGGGTGCCCTCTTCC    150
+
+b73_BM347632     151 TTGATTTGTTGCTACCGCGATCATCACTGGCAGCAGTGCAAGCCACATCA    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM34763    151 TTGATTTGTTGCTACCGCGATCATCACTGGCAGCAGTGCAAGCCACATCA    200
+
+b73_BM347632     201 GTAGGGGCCATAGAGTCGGTAGGGGTACGTCTTGTGGGGCCTATGCCAGT    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM34763    201 GTAGGGGCCATAGAGTCGGTAGGGGTACGTCTTGTGGGGCCTATGCCAGT    250
+
+b73_BM347632     251 CTCCGTCCTAGGCATGTCTAGGTTGATGCTGGTACCGACATCGAACAAAG    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM34763    251 CTCCGTCCTAGGCATGTCTAGGTTGATGCTGGTACCGACATCGAACAAAG    300
+
+b73_BM347632     301 TATTAGCGTCCTCCTGTTAAACGTC    325
+                     |||||||||||||||||||||||||
+ph207_BM34763    301 TATTAGCGTCCTCCTGTTAAACGTC    325
+
+
+#---------------------------------------
+#---------------------------------------

@@ -1,0 +1,66 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:11
+# Commandline: needle
+#    [-asequence] /tmp/rK4mPVn4ob
+#    [-bsequence] /tmp/se0ly2yH3q
+#    -gapextend 0
+#    -auto
+#    [-outfile] BE510000_BE510000
+# Align_format: srspair
+# Report_file: BE510000_BE510000
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BE510000
+# 2: ph207_BE510000
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 373
+# Identity:     373/373 (100.0%)
+# Similarity:   373/373 (100.0%)
+# Gaps:           0/373 ( 0.0%)
+# Score: 1865.0
+# 
+#
+#=======================================
+
+b73_BE510000       1 AGAGCAGTGCAGATGCAGGAGCTCTAAAAAAACATGCTTCATCACCGCTT     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BE51000      1 AGAGCAGTGCAGATGCAGGAGCTCTAAAAAAACATGCTTCATCACCGCTT     50
+
+b73_BE510000      51 CCAACGAGCTCGTCAGGGTCCTGGCCAACCCCACAGGCGTCCTCAACCCG    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BE51000     51 CCAACGAGCTCGTCAGGGTCCTGGCCAACCCCACAGGCGTCCTCAACCCG    100
+
+b73_BE510000     101 TCGGCAGCGTCCCTCCTCGCGCCGCGCTGCGCTGCGCTCCGAGCTGGAAG    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BE51000    101 TCGGCAGCGTCCCTCCTCGCGCCGCGCTGCGCTGCGCTCCGAGCTGGAAG    150
+
+b73_BE510000     151 CTAGCGGAGGCGTCGCTGCGGGTGGCCACGCGGGGCTGGGTGTTAGCCGC    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BE51000    151 CTAGCGGAGGCGTCGCTGCGGGTGGCCACGCGGGGCTGGGTGTTAGCCGC    200
+
+b73_BE510000     201 TGCACAGGCAACTACCGTGCTGGCATCAGACGACGCCGCTGTAGCAGCTG    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BE51000    201 TGCACAGGCAACTACCGTGCTGGCATCAGACGACGCCGCTGTAGCAGCTG    250
+
+b73_BE510000     251 TAAGCAGATGTTCAAGAGTGTTCCAAGCAGAAGAACGAAGTGCGGCTGCG    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BE51000    251 TAAGCAGATGTTCAAGAGTGTTCCAAGCAGAAGAACGAAGTGCGGCTGCG    300
+
+b73_BE510000     301 TCGGCAGAGGCACGACAATGTCCGAGTTACTGGACCAGAGTGGGCCATGT    350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BE51000    301 TCGGCAGAGGCACGACAATGTCCGAGTTACTGGACCAGAGTGGGCCATGT    350
+
+b73_BE510000     351 AAGCGTGAGTTGGGCTAGACCAT    373
+                     |||||||||||||||||||||||
+ph207_BE51000    351 AAGCGTGAGTTGGGCTAGACCAT    373
+
+
+#---------------------------------------
+#---------------------------------------

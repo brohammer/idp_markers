@@ -1,0 +1,62 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:10
+# Commandline: needle
+#    [-asequence] /tmp/BmGsPP1wJ6
+#    [-bsequence] /tmp/i3Kw_UAvBd
+#    -gapextend 0
+#    -auto
+#    [-outfile] AI977980_AI977980
+# Align_format: srspair
+# Report_file: AI977980_AI977980
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_AI977980
+# 2: ph207_AI977980
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 309
+# Identity:     307/309 (99.4%)
+# Similarity:   307/309 (99.4%)
+# Gaps:           0/309 ( 0.0%)
+# Score: 1527.0
+# 
+#
+#=======================================
+
+b73_AI977980       1 AAATGAATCTGCCATGCTGCTGCTATTTGCGTTTCTGCCCAAACAGGAAT     50
+                     ||||||||||||||||||.|||||||||||||||||||||||||||||||
+ph207_AI97798      1 AAATGAATCTGCCATGCTCCTGCTATTTGCGTTTCTGCCCAAACAGGAAT     50
+
+b73_AI977980      51 TTACAACGAATTATCAAAATTGTAAGTTCAAACAACAGCAGCCTCCGATC    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI97798     51 TTACAACGAATTATCAAAATTGTAAGTTCAAACAACAGCAGCCTCCGATC    100
+
+b73_AI977980     101 CACATCATCACTAGTCTACCATTTCCGACGGACAAGAAGGTTGGAACAGT    150
+                     ||||.|||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI97798    101 CACAGCATCACTAGTCTACCATTTCCGACGGACAAGAAGGTTGGAACAGT    150
+
+b73_AI977980     151 GACGGTTTCAGGAGAGACAGGACCCAGTGGCTAATCAGCTGTCCCAGCTC    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI97798    151 GACGGTTTCAGGAGAGACAGGACCCAGTGGCTAATCAGCTGTCCCAGCTC    200
+
+b73_AI977980     201 AGGGTTCAGGGCTTCAGGCTTCAGAATCGAAAGATCTCCTGTCGAATGGA    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI97798    201 AGGGTTCAGGGCTTCAGGCTTCAGAATCGAAAGATCTCCTGTCGAATGGA    250
+
+b73_AI977980     251 CGACTTCAAGAATCTACAGCATTTGTACCACTGCCATTGGGGTCTTGTTG    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI97798    251 CGACTTCAAGAATCTACAGCATTTGTACCACTGCCATTGGGGTCTTGTTG    300
+
+b73_AI977980     301 GTCAGCATT    309
+                     |||||||||
+ph207_AI97798    301 GTCAGCATT    309
+
+
+#---------------------------------------
+#---------------------------------------

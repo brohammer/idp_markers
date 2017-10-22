@@ -1,0 +1,62 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:13
+# Commandline: needle
+#    [-asequence] /tmp/vYpOSMrJWC
+#    [-bsequence] /tmp/Yte4978XT5
+#    -gapextend 0
+#    -auto
+#    [-outfile] AI855023_AI855023
+# Align_format: srspair
+# Report_file: AI855023_AI855023
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_AI855023
+# 2: ph207_AI855023
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 302
+# Identity:     300/302 (99.3%)
+# Similarity:   300/302 (99.3%)
+# Gaps:           1/302 ( 0.3%)
+# Score: 1486.0
+# 
+#
+#=======================================
+
+b73_AI855023       1 AATTTCCTGCGATCTGTTGCTGCAGGAGAAGATCGCAGGCATCCATGCAC     50
+                     |||||||||||||||||||||||||.||||||||||||||||||||||||
+ph207_AI85502      1 AATTTCCTGCGATCTGTTGCTGCAGCAGAAGATCGCAGGCATCCATGCAC     50
+
+b73_AI855023      51 ACACAGTTACTACAACTTACAC-GGGAGAGCAGAGGGGAAGAACAAGGTG     99
+                     |||||||||||||||||||||| |||||||||||||||||||||||||||
+ph207_AI85502     51 ACACAGTTACTACAACTTACACGGGGAGAGCAGAGGGGAAGAACAAGGTG    100
+
+b73_AI855023     100 GTAGAAGCCAAGATCTCTGCTTCGCTTCGGTTCAATTCACAGGTGGCCTC    149
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI85502    101 GTAGAAGCCAAGATCTCTGCTTCGCTTCGGTTCAATTCACAGGTGGCCTC    150
+
+b73_AI855023     150 TGATCCAGAGCAGCGTCCGCCGGGCGAACGACGGCGCCTCGTCGGCTCTG    199
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI85502    151 TGATCCAGAGCAGCGTCCGCCGGGCGAACGACGGCGCCTCGTCGGCTCTG    200
+
+b73_AI855023     200 GAGCTGAGGCCGTGCCCGCCGCCCGCGGACTCGACGTCCCAATCCACGAC    249
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI85502    201 GAGCTGAGGCCGTGCCCGCCGCCCGCGGACTCGACGTCCCAATCCACGAC    250
+
+b73_AI855023     250 GCTGCCGCTCGCGCTCTTGTCCCAAGCCGACACGTTGTACTCGGACTCCG    299
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI85502    251 GCTGCCGCTCGCGCTCTTGTCCCAAGCCGACACGTTGTACTCGGACTCCG    300
+
+b73_AI855023     300 TC    301
+                     ||
+ph207_AI85502    301 TC    302
+
+
+#---------------------------------------
+#---------------------------------------

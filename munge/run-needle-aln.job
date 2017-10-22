@@ -1,0 +1,13 @@
+#!/bin/bash
+#PBS -l walltime=24:00:00
+#PBS -l nodes=1:ppn=1
+#PBS -l mem=2gb
+#PBS -V
+#PBS -r n
+
+
+module load molpopgen
+module load emboss
+
+cd /home/hirschc1/shared/projects/w22-key
+perl munge/run-needle-aln.pl -i data/B73-W22_GeneKey.txt -q cache/B73CDSindex -s cache/W22CDSindex > data/needle-aln-metrics.txt

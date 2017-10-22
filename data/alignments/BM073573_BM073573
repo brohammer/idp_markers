@@ -1,0 +1,66 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:32
+# Commandline: needle
+#    [-asequence] /tmp/hT5pHF7UJ_
+#    [-bsequence] /tmp/MIbGD4GYqQ
+#    -gapextend 0
+#    -auto
+#    [-outfile] BM073573_BM073573
+# Align_format: srspair
+# Report_file: BM073573_BM073573
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BM073573
+# 2: ph207_BM073573
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 370
+# Identity:     370/370 (100.0%)
+# Similarity:   370/370 (100.0%)
+# Gaps:           0/370 ( 0.0%)
+# Score: 1850.0
+# 
+#
+#=======================================
+
+b73_BM073573       1 TACATAACCATCGATTCGGCGCTCTGCCGTAAATCAGAAAGCATACTTCA     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07357      1 TACATAACCATCGATTCGGCGCTCTGCCGTAAATCAGAAAGCATACTTCA     50
+
+b73_BM073573      51 GTTCCTAGATGAATTATAAACTCCTGTGCTCCCAACGAGGCACCAGATGC    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07357     51 GTTCCTAGATGAATTATAAACTCCTGTGCTCCCAACGAGGCACCAGATGC    100
+
+b73_BM073573     101 TACTGTAAGTAACCATGAATGAGAATGATGCACCAGAGCAGTATCTGATA    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07357    101 TACTGTAAGTAACCATGAATGAGAATGATGCACCAGAGCAGTATCTGATA    150
+
+b73_BM073573     151 ACATGATCAACCATAATATTACGGTTTTCAGAAGATGCAGTACGATGCAT    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07357    151 ACATGATCAACCATAATATTACGGTTTTCAGAAGATGCAGTACGATGCAT    200
+
+b73_BM073573     201 CCGAGCTCCCCAGGTTGCCAGCCGAAGCATTTACATCTTCTGCATGATAA    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07357    201 CCGAGCTCCCCAGGTTGCCAGCCGAAGCATTTACATCTTCTGCATGATAA    250
+
+b73_BM073573     251 CAGAGTTTGCAAGCCCAGCTTGCTCCACGGTCTGCGTTGGGTCAGCCAGC    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07357    251 CAGAGTTTGCAAGCCCAGCTTGCTCCACGGTCTGCGTTGGGTCAGCCAGC    300
+
+b73_BM073573     301 TGCTTGGGAGGGAAACCCGTCTGCAGCTGATAAGGCCTTGCAGCTCCAGG    350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07357    301 TGCTTGGGAGGGAAACCCGTCTGCAGCTGATAAGGCCTTGCAGCTCCAGG    350
+
+b73_BM073573     351 CCGAGCTGCGTCTATAAAGG    370
+                     ||||||||||||||||||||
+ph207_BM07357    351 CCGAGCTGCGTCTATAAAGG    370
+
+
+#---------------------------------------
+#---------------------------------------

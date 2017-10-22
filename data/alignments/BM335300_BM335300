@@ -1,0 +1,126 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:28:58
+# Commandline: needle
+#    [-asequence] /tmp/SvdQwnt5H8
+#    [-bsequence] /tmp/LsfSE0MBou
+#    -gapextend 0
+#    -auto
+#    [-outfile] BM335300_BM335300
+# Align_format: srspair
+# Report_file: BM335300_BM335300
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BM335300
+# 2: ph207_BM335300
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 1120
+# Identity:     297/1120 (26.5%)
+# Similarity:   297/1120 (26.5%)
+# Gaps:         823/1120 (73.5%)
+# Score: 1465.0
+# 
+#
+#=======================================
+
+b73_BM335300       1 ATGGACCCAGATAGTGAGCGTGTCGATGAGTATGGACTCGGGGTTAGAGA     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM33530      1 ATGGACCCAGATAGTGAGCGTGTCGATGAGTATGGACTCGGGGTTAGAGA     50
+
+b73_BM335300      51 AAGTTTGGCTGAGGCTGTCAATGCTGTCATTAATATCCTTGGAATGCAGC    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM33530     51 AAGTTTGGCTGAGGCTGTCAATGCTGTCATTAATATCCTTGGAATGCAGC    100
+
+b73_BM335300     101 CGTGTGAGGTCAGTTTCCAATTCTCAATTTCAGAAATCGTCAAATCCCCC    150
+                     |||||||||||||||||||                               
+ph207_BM33530    101 CGTGTGAGGTCAGTTTCCA-------------------------------    119
+
+b73_BM335300     151 CCCCCCCCCCACCCCCACCCCCCACGCATCATTAGGTATTTCTGGGCTAT    200
+                                                                       
+ph207_BM33530    119 --------------------------------------------------    119
+
+b73_BM335300     201 AACATTGGAGTGATCTGTGAACATAATTTGGAATATCAGGACAGTTATGT    250
+                                                                       
+ph207_BM33530    119 --------------------------------------------------    119
+
+b73_BM335300     251 TGGCATGGTGACAACTAGAGCACATATTCGCATCTTTGTTTGTCTTTAGA    300
+                                                                       
+ph207_BM33530    119 --------------------------------------------------    119
+
+b73_BM335300     301 TAATGGTACTTGGATGGTTGCTAAATGCTTCAGTTACTTTGTTTTTTTAC    350
+                                                                       
+ph207_BM33530    119 --------------------------------------------------    119
+
+b73_BM335300     351 TTTTCAGGGCACTGAGGTTGTACCGAAAAATGCA----------------    384
+                                                      |                
+ph207_BM33530    120 ---------------------------------ANNNNNNNNNNNNNNNN    136
+
+b73_BM335300     384 --------------------------------------------------    384
+                                                                       
+ph207_BM33530    137 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN    186
+
+b73_BM335300     384 --------------------------------------------------    384
+                                                                       
+ph207_BM33530    187 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN    236
+
+b73_BM335300     384 --------------------------------------------------    384
+                                                                       
+ph207_BM33530    237 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN    286
+
+b73_BM335300     384 --------------------------------------------------    384
+                                                                       
+ph207_BM33530    287 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN    336
+
+b73_BM335300     384 --------------------------------------------------    384
+                                                                       
+ph207_BM33530    337 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN    386
+
+b73_BM335300     384 --------------------------------------------------    384
+                                                                       
+ph207_BM33530    387 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN    436
+
+b73_BM335300     384 --------------------------------------------------    384
+                                                                       
+ph207_BM33530    437 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN    486
+
+b73_BM335300     384 --------------------------------------------------    384
+                                                                       
+ph207_BM33530    487 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN    536
+
+b73_BM335300     384 --------------------------------------------------    384
+                                                                       
+ph207_BM33530    537 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN    586
+
+b73_BM335300     384 --------------------------------------------------    384
+                                                                       
+ph207_BM33530    587 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN    636
+
+b73_BM335300     385 -------------------------------------------AGATCGC    391
+                                                                |||||||
+ph207_BM33530    637 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNAGATCGC    686
+
+b73_BM335300     392 ACACCTGCCTTCTATCTGGTGTATTTATTGGCAACATGAAGGTCCTAGTT    441
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM33530    687 ACACCTGCCTTCTATCTGGTGTATTTATTGGCAACATGAAGGTCCTAGTT    736
+
+b73_BM335300     442 AGGTTGTCATTTGGACTGAGCGGGCCCAACGAAGTGGCAATGAAATTAGC    491
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM33530    737 AGGTTGTCATTTGGACTGAGCGGGCCCAACGAAGTGGCAATGAAATTAGC    786
+
+b73_BM335300     492 TGTGAGATCAGATGACCCTGAAGTCAGTGATAAGATTCATGAGATTGTCG    541
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM33530    787 TGTGAGATCAGATGACCCTGAAGTCAGTGATAAGATTCATGAGATTGTCG    836
+
+b73_BM335300     542 CCAGCGGATAAAGTGCAAGA    561
+                     ||||||||||||||||||||
+ph207_BM33530    837 CCAGCGGATAAAGTGCAAGA    856
+
+
+#---------------------------------------
+#---------------------------------------

@@ -1,0 +1,58 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:29
+# Commandline: needle
+#    [-asequence] /tmp/zAIj97E_vy
+#    [-bsequence] /tmp/iLOIrX9Hbj
+#    -gapextend 0
+#    -auto
+#    [-outfile] BM074354_BM074354
+# Align_format: srspair
+# Report_file: BM074354_BM074354
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BM074354
+# 2: ph207_BM074354
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 271
+# Identity:     271/271 (100.0%)
+# Similarity:   271/271 (100.0%)
+# Gaps:           0/271 ( 0.0%)
+# Score: 1355.0
+# 
+#
+#=======================================
+
+b73_BM074354       1 CGTGCCAACTAGCAACTGGGGGGTCTTAATTCGACAAGTTGCTACTAGTA     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07435      1 CGTGCCAACTAGCAACTGGGGGGTCTTAATTCGACAAGTTGCTACTAGTA     50
+
+b73_BM074354      51 CGTACAGTACTGATTCTGCTAGTAGGCTCTAGTGATGTTGTCATCCGGTG    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07435     51 CGTACAGTACTGATTCTGCTAGTAGGCTCTAGTGATGTTGTCATCCGGTG    100
+
+b73_BM074354     101 GGGGCCGCCGAGCTACGGCTTGTGTCTGTTGCCAGTTGCCAGCCAGCCAC    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07435    101 GGGGCCGCCGAGCTACGGCTTGTGTCTGTTGCCAGTTGCCAGCCAGCCAC    150
+
+b73_BM074354     151 GAGTGTTTGGTGGTTTAATCATACAGCGGGTTGTGGCGGCTCTTGCTTCT    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07435    151 GAGTGTTTGGTGGTTTAATCATACAGCGGGTTGTGGCGGCTCTTGCTTCT    200
+
+b73_BM074354     201 TTTTCTTTGTTTTTTTTTTTTGCCATCGATTCATCCATCTATGCTCTCTT    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07435    201 TTTTCTTTGTTTTTTTTTTTTGCCATCGATTCATCCATCTATGCTCTCTT    250
+
+b73_BM074354     251 TGGGCGAGTGATCCAACACCA    271
+                     |||||||||||||||||||||
+ph207_BM07435    251 TGGGCGAGTGATCCAACACCA    271
+
+
+#---------------------------------------
+#---------------------------------------

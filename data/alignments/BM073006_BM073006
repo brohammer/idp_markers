@@ -1,0 +1,58 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:12
+# Commandline: needle
+#    [-asequence] /tmp/xOUymoI41C
+#    [-bsequence] /tmp/QQb6doVea8
+#    -gapextend 0
+#    -auto
+#    [-outfile] BM073006_BM073006
+# Align_format: srspair
+# Report_file: BM073006_BM073006
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BM073006
+# 2: ph207_BM073006
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 276
+# Identity:     276/276 (100.0%)
+# Similarity:   276/276 (100.0%)
+# Gaps:           0/276 ( 0.0%)
+# Score: 1380.0
+# 
+#
+#=======================================
+
+b73_BM073006       1 GCCCATAATGATGAAGGACGAAACAAGCTTCAGCATACTAACCACGGTCA     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07300      1 GCCCATAATGATGAAGGACGAAACAAGCTTCAGCATACTAACCACGGTCA     50
+
+b73_BM073006      51 TCCGGAAACTGATGCCAAAACTTTGTCACGGTCATCCCACGCCAAATTTC    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07300     51 TCCGGAAACTGATGCCAAAACTTTGTCACGGTCATCCCACGCCAAATTTC    100
+
+b73_BM073006     101 GGACAACACAAGCCTAAGCTTGTGAAAGGGGAAACAAACAATGTAAAAAC    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07300    101 GGACAACACAAGCCTAAGCTTGTGAAAGGGGAAACAAACAATGTAAAAAC    150
+
+b73_BM073006     151 AGAAAACACCAGGATAGTCTTACAGTCAACATCTAATCTAATAATTTATA    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07300    151 AGAAAACACCAGGATAGTCTTACAGTCAACATCTAATCTAATAATTTATA    200
+
+b73_BM073006     201 ACCAATGTAAATAAAGCCTAAGCTTTGCCGTACGTTGCCTCACAGCAAGT    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07300    201 ACCAATGTAAATAAAGCCTAAGCTTTGCCGTACGTTGCCTCACAGCAAGT    250
+
+b73_BM073006     251 AGAACTGCGAGTACAGAAGCTCCCTG    276
+                     ||||||||||||||||||||||||||
+ph207_BM07300    251 AGAACTGCGAGTACAGAAGCTCCCTG    276
+
+
+#---------------------------------------
+#---------------------------------------

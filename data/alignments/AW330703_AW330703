@@ -1,0 +1,66 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:02
+# Commandline: needle
+#    [-asequence] /tmp/vQry0ulKXv
+#    [-bsequence] /tmp/dv5rLsIhL3
+#    -gapextend 0
+#    -auto
+#    [-outfile] AW330703_AW330703
+# Align_format: srspair
+# Report_file: AW330703_AW330703
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_AW330703
+# 2: ph207_AW330703
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 398
+# Identity:     388/398 (97.5%)
+# Similarity:   388/398 (97.5%)
+# Gaps:           8/398 ( 2.0%)
+# Score: 1912.0
+# 
+#
+#=======================================
+
+b73_AW330703       1 CGATCTGCTCGTAGAGGTCCCTGATCTTGAGCCCGACGATGGTCTGGAAG     50
+                     ||||||||||||||||||||||||.|||||||||||||||||||||||||
+ph207_AW33070      1 CGATCTGCTCGTAGAGGTCCCTGACCTTGAGCCCGACGATGGTCTGGAAG     50
+
+b73_AW330703      51 AGCCCCGTGCCGTTGTTGCTGCCGGGGACGTCGGCGTGCCTGAGCATCTG    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AW33070     51 AGCCCCGTGCCGTTGTTGCTGCCGGGGACGTCGGCGTGCCTGAGCATCTG    100
+
+b73_AW330703     101 CTGCGTCACCTCCCCGTAGAACTTGGTTGACAGGTTGCTCAGGTGGGTCT    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AW33070    101 CTGCGTCACCTCCCCGTAGAACTTGGTTGACAGGTTGCTCAGGTGGGTCT    150
+
+b73_AW330703     151 CCACGTAGATGAGCTCGTCCAGCTTGTCGAACTGCCCGTCCATCTCCACC    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AW33070    151 CCACGTAGATGAGCTCGTCCAGCTTGTCGAACTGCCCGTCCATCTCCACC    200
+
+b73_AW330703     201 ACCGACACCTTACCATCCAAAGGTGTTCATGCCAACGCAAGGACATATAT    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AW33070    201 ACCGACACCTTACCATCCAAAGGTGTTCATGCCAACGCAAGGACATATAT    250
+
+b73_AW330703     251 AGCTGTCAGTGAGCTGAAACGCTAGCTGCTGAGACGGCGATGAGTGAGT-    299
+                     ||||||||||||||||||||||||||||||||||||||||||||||||| 
+ph207_AW33070    251 AGCTGTCAGTGAGCTGAAACGCTAGCTGCTGAGACGGCGATGAGTGAGTA    300
+
+b73_AW330703     300 ATATGAGTGGTCGTCACTCGTCAGCTCGTCACCTCGTGTCCGAAGTAGGT    349
+                     ||||||||||       |||||||.|||||||||||||||||||||||||
+ph207_AW33070    301 ATATGAGTGG-------TCGTCAGTTCGTCACCTCGTGTCCGAAGTAGGT    343
+
+b73_AW330703     350 GTCGAAGCCGTAGGCGAACCTGATGCCAGGGTAGGAGCAGGAGAGCTT    397
+                     ||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AW33070    344 GTCGAAGCCGTAGGCGAACCTGATGCCAGGGTAGGAGCAGGAGAGCTT    391
+
+
+#---------------------------------------
+#---------------------------------------

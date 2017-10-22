@@ -1,0 +1,58 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:31
+# Commandline: needle
+#    [-asequence] /tmp/U25hTYu2yT
+#    [-bsequence] /tmp/KmpTJRzd2T
+#    -gapextend 0
+#    -auto
+#    [-outfile] AW067206_AW067206
+# Align_format: srspair
+# Report_file: AW067206_AW067206
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_AW067206
+# 2: ph207_AW067206
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 257
+# Identity:     252/257 (98.1%)
+# Similarity:   252/257 (98.1%)
+# Gaps:           2/257 ( 0.8%)
+# Score: 1238.0
+# 
+#
+#=======================================
+
+b73_AW067206       1 TGGCAGCTTTGTGTGTGCGCGCGGTGGTGGTGGGGGATCAGGCGCTGCCA     50
+                     ||||||||||||||||  |.|.||||||||||||||||||||||||||||
+ph207_AW06720      1 TGGCAGCTTTGTGTGT--GTGTGGTGGTGGTGGGGGATCAGGCGCTGCCA     48
+
+b73_AW067206      51 TGAGCTAGTATATACACTGCAGAAAGGATGACGAGGAAGATGACGATGCT    100
+                     |||||||||||||||||||||||||||||||||||||.||||||||||||
+ph207_AW06720     49 TGAGCTAGTATATACACTGCAGAAAGGATGACGAGGAGGATGACGATGCT     98
+
+b73_AW067206     101 TCCCTCCTACAGGAAGCATGCATTATAGTTTCTTGAGGATGTTTCGCACG    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AW06720     99 TCCCTCCTACAGGAAGCATGCATTATAGTTTCTTGAGGATGTTTCGCACG    148
+
+b73_AW067206     151 CCGCGATCAATTATCGTGGTTCTCGGACGAGATTACGCAGTTGCAGTTGC    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AW06720    149 CCGCGATCAATTATCGTGGTTCTCGGACGAGATTACGCAGTTGCAGTTGC    198
+
+b73_AW067206     201 GGCCGCGGCTTCCTCGGCCACCTGGGTCGCCTGCTGCAGCGTGCAGATGA    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AW06720    199 GGCCGCGGCTTCCTCGGCCACCTGGGTCGCCTGCTGCAGCGTGCAGATGA    248
+
+b73_AW067206     251 GGTTGCG    257
+                     |||||||
+ph207_AW06720    249 GGTTGCG    255
+
+
+#---------------------------------------
+#---------------------------------------

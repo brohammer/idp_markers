@@ -1,0 +1,62 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:09
+# Commandline: needle
+#    [-asequence] /tmp/AyOb73yosV
+#    [-bsequence] /tmp/UjmuEyyWIP
+#    -gapextend 0
+#    -auto
+#    [-outfile] AI637031_AI637031
+# Align_format: srspair
+# Report_file: AI637031_AI637031
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_AI637031
+# 2: ph207_AI637031
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 303
+# Identity:     289/303 (95.4%)
+# Similarity:   289/303 (95.4%)
+# Gaps:           9/303 ( 3.0%)
+# Score: 1405.0
+# 
+#
+#=======================================
+
+b73_AI637031       1 GAAATACTCTGCTCCACACGCTGCAGCACAGATAGCCCGTCCCGTAACAG     50
+                     ||||||||||||||  ||||||||||||||||||||||||||||||||||
+ph207_AI63703      1 GAAATACTCTGCTC--CACGCTGCAGCACAGATAGCCCGTCCCGTAACAG     48
+
+b73_AI637031      51 TCACTGCATATCTCATAGGCATAGAGTACCATCAGATCAGATGAAAATTA    100
+                     ||||||||||...|||||||||||||||||||||||||||||||||||||
+ph207_AI63703     49 TCACTGCATAATGCATAGGCATAGAGTACCATCAGATCAGATGAAAATTA     98
+
+b73_AI637031     101 AGGCAGTTTGACACGCAGAGTAGCAGACAAGAAGAGGTCTGCTTTCCTCC    150
+                     |||||||||||||||.||||||||||||||||||||||||||||||||||
+ph207_AI63703     99 AGGCAGTTTGACACGTAGAGTAGCAGACAAGAAGAGGTCTGCTTTCCTCC    148
+
+b73_AI637031     151 TAGCAGTGATCCCCATGGTCTCGGCCATGTCCATCTCAGCAGGAAGGACG    200
+                     |||||||||||||||||||||||||||||||||||||||||||||||||.
+ph207_AI63703    149 TAGCAGTGATCCCCATGGTCTCGGCCATGTCCATCTCAGCAGGAAGGACT    198
+
+b73_AI637031     201 CCCGCCGGGAGACTCCAGTCGAAGTAGAAGAGCAAGCTGGCGAGACCGAG    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI63703    199 CCCGCCGGGAGACTCCAGTCGAAGTAGAAGAGCAAGCTGGCGAGACCGAG    248
+
+b73_AI637031     251 CTCGACGTTGGCCACTGGCCAGCCCGAACGACATCCCAGGGCAGATCCTC    300
+                     ||||||||       |||||||||||||||||||||||||||||||||||
+ph207_AI63703    249 CTCGACGT-------TGGCCAGCCCGAACGACATCCCAGGGCAGATCCTC    291
+
+b73_AI637031     301 CTC    303
+                     |||
+ph207_AI63703    292 CTC    294
+
+
+#---------------------------------------
+#---------------------------------------

@@ -1,0 +1,58 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:13
+# Commandline: needle
+#    [-asequence] /tmp/KvtmfpAcoy
+#    [-bsequence] /tmp/ioFxGTsPwc
+#    -gapextend 0
+#    -auto
+#    [-outfile] BG842221_BG842221
+# Align_format: srspair
+# Report_file: BG842221_BG842221
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BG842221
+# 2: ph207_BG842221
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 295
+# Identity:     288/295 (97.6%)
+# Similarity:   288/295 (97.6%)
+# Gaps:           1/295 ( 0.3%)
+# Score: 1416.0
+# 
+#
+#=======================================
+
+b73_BG842221       1 GCAGTTAACCACGGCTCGAGTCAACGATAACATTGGAGAAAGCGCAACTG     50
+                      |||||||||||||||.|||||.||||||||.||||||||||||||||||
+ph207_BG84222      1 -CAGTTAACCACGGCTGGAGTCCACGATAACTTTGGAGAAAGCGCAACTG     49
+
+b73_BG842221      51 CATCATGTGTTACTGATGTGTTTACTGATATAATGGTAACACGGGTAATA    100
+                     ||||.||||||.|||||||||||||||||||||||||||||.||||||||
+ph207_BG84222     50 CATCTTGTGTTGCTGATGTGTTTACTGATATAATGGTAACATGGGTAATA     99
+
+b73_BG842221     101 TGCTTTGGTTGAATCAGAATTTCAGAGCAGCTCTCGCCATTTCCAATGCT    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BG84222    100 TGCTTTGGTTGAATCAGAATTTCAGAGCAGCTCTCGCCATTTCCAATGCT    149
+
+b73_BG842221     151 CCCTCGTAGGTCTTGTTGCCCCCAATGAAGCCACTCATGTGGACAAACAC    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BG84222    150 CCCTCGTAGGTCTTGTTGCCCCCAATGAAGCCACTCATGTGGACAAACAC    199
+
+b73_BG842221     201 ACAGCCAGGGATGCCGGTTTCTGCTGAAAGTTCGTCGTCTCTCATGCCCC    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BG84222    200 ACAGCCAGGGATGCCGGTTTCTGCTGAAAGTTCGTCGTCTCTCATGCCCC    249
+
+b73_BG842221     251 TCCACTTCTCTGGCAGAGCCTTTCGGCTCTCGAACCTGTCAGGAG    295
+                     |||||||||||||||||||||||||||||||||||||||||||||
+ph207_BG84222    250 TCCACTTCTCTGGCAGAGCCTTTCGGCTCTCGAACCTGTCAGGAG    294
+
+
+#---------------------------------------
+#---------------------------------------

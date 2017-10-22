@@ -1,0 +1,662 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:08
+# Commandline: needle
+#    [-asequence] /tmp/ov0EHbSXCm
+#    [-bsequence] /tmp/LFvurWN0jB
+#    -gapextend 0
+#    -auto
+#    [-outfile] BM336730_BM336730
+# Align_format: srspair
+# Report_file: BM336730_BM336730
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BM336730
+# 2: ph207_BM336730
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 7830
+# Identity:     318/7830 ( 4.1%)
+# Similarity:   318/7830 ( 4.1%)
+# Gaps:        7487/7830 (95.6%)
+# Score: 890.0
+# 
+#
+#=======================================
+
+b73_BM336730       0 --------------------------------------------------      0
+                                                                       
+ph207_BM33673      1 GGAGCCGTGACTTCAGAAACAGAGAAAAAATGGCATAAGAAAACAGATGA     50
+
+b73_BM336730       1 ---------------------------------------TGCAAGCT---      8
+                                                            ||.|||.|   
+ph207_BM33673     51 GCTGTGTTCCTAGGAAACTAGTGGATAACGCCTATGAGATGAAAGATGTG    100
+
+b73_BM336730       8 --------------------------------------------------      8
+                                                                       
+ph207_BM33673    101 GCTGGTAGAAAATCCTAGGCTTTCTACGTGGAGGTGGAGGAGATAAAGGA    150
+
+b73_BM336730       8 --------------------------------------------------      8
+                                                                       
+ph207_BM33673    151 ATGTATACCGGAATTTCTAGAGCTAGTACGTGGAGGAGTACGTGGAGGGC    200
+
+b73_BM336730       9 ------------------------AGCAGAGA------------------     16
+                                             ||.|||||                  
+ph207_BM33673    201 ATAATGAGCTCCAATGGATAAGGGAGGAGAGACTACGTGATTAGGATAAG    250
+
+b73_BM336730      17 --------CAGCGGGGG---------------------------------     25
+                             |||.|||||                                 
+ph207_BM33673    251 AGGGAACGCAGTGGGGGAATTTGGTTTTTTTTCTTTTCTATTTTTTAGAC    300
+
+b73_BM336730      25 --------------------------------------------------     25
+                                                                       
+ph207_BM33673    301 TAAAGCAAAATGCAGATATTTTGATGTTATAAAATTAGTGTCTAAAAGAT    350
+
+b73_BM336730      25 --------------------------------------------------     25
+                                                                       
+ph207_BM33673    351 GTATAAAAGGATCGAACAAAATAAGATCGACAACAATATTTGGACCGAAT    400
+
+b73_BM336730      26 -------------------------------------GCTCA--------     30
+                                                          .||||        
+ph207_BM33673    401 TTAATTTGATGAATACTTCGGAGTCAGATGAATTTTCACTCATTATTTAT    450
+
+b73_BM336730      31 ----------------CTGG----------CATGGAC-------------     41
+                                     ||||          |||||||             
+ph207_BM33673    451 ATATGAAGTTTTGGATCTGGGCGATAAACACATGGACCAAATCAAACGAG    500
+
+b73_BM336730      41 --------------------------------------------------     41
+                                                                       
+ph207_BM33673    501 ATCAACTTCGATATTGTAGACTATATTAGATCCAGTTTAATTCAGATAAA    550
+
+b73_BM336730      42 -------------------------------GACGT--------------     46
+                                                    |||||              
+ph207_BM33673    551 TATCACCCGCCAACCAAACCCATGATTCTCTGACGTGAATACCATACTGG    600
+
+b73_BM336730      47 -------------------------------------------------T     47
+                                                                      |
+ph207_BM33673    601 AAGAACAATCCCAAATATAAACCTCGCACATAAATTTTCTCCAATAACGT    650
+
+b73_BM336730      48 GTG-----------------------------------------------     50
+                     |||                                               
+ph207_BM33673    651 GTGCGGTCGGATTATAAAGTTTAGACACTCTGTAAATTTATTCTCACCCA    700
+
+b73_BM336730      50 --------------------------------------------------     50
+                                                                       
+ph207_BM33673    701 CTCGAGTGATTCACACAGTATAGAACTCGACGTCTCGGGAGATACTTAAA    750
+
+b73_BM336730      50 --------------------------------------------------     50
+                                                                       
+ph207_BM33673    751 TTTCAAACTTCATAAAATATTTAGAATAGTCCAAATGAATAGAAATGCAG    800
+
+b73_BM336730      50 --------------------------------------------------     50
+                                                                       
+ph207_BM33673    801 ACGATACATGAGATAGTGTTTTAGACGAGATGTCAATGGACCAAACCAAA    850
+
+b73_BM336730      51 -----------------------GCCTGGGC-------------------     58
+                                            |.|||.||                   
+ph207_BM33673    851 CGACATCAGAGTCGATATATTAAGACTGTGCTTAATTTGATTCGATTCGA    900
+
+b73_BM336730      58 --------------------------------------------------     58
+                                                                       
+ph207_BM33673    901 AACCCGATTATTTTATCTGCAGTCTGAACAGGGAAACATATTAATTATGA    950
+
+b73_BM336730      58 --------------------------------------------------     58
+                                                                       
+ph207_BM33673    951 ATACTCAATATCAGCTCTAATTATCTCGGTCCAATTTAATCTCGCATCAA   1000
+
+b73_BM336730      58 --------------------------------------------------     58
+                                                                       
+ph207_BM33673   1001 CACTCTTGTCGTCGAGCTTCTAATAAATTTTGTTCGGGACGAAATTGGAA   1050
+
+b73_BM336730      59 -----------------------------GAGCA----------------     63
+                                                  |||||                
+ph207_BM33673   1051 GTCTGAACTAAGTTTCCAAATTTGTATTTGAGCAAACCGATGAACTTTAA   1100
+
+b73_BM336730      63 --------------------------------------------------     63
+                                                                       
+ph207_BM33673   1101 ATAATCACCAGACTCGCTAATTTTTGGAACAATTATGTTCCGAACATCAC   1150
+
+b73_BM336730      63 --------------------------------------------------     63
+                                                                       
+ph207_BM33673   1151 GAAAATTTTTAAGAAGAAGATGATTAGGACATAGACACCGTTATTCTCAT   1200
+
+b73_BM336730      64 ------------------------CATGG---------------------     68
+                                             |||||                     
+ph207_BM33673   1201 AGATAATTTTTTTAGATCCATACTCATGGTCAAACGGAAGATAAACACCT   1250
+
+b73_BM336730      68 --------------------------------------------------     68
+                                                                       
+ph207_BM33673   1251 AGGGTGTTACAACCCTCCCCCCTTAAAAGAATCTCGTCCCAAGATTCGGA   1300
+
+b73_BM336730      69 -------------------GGAGCAACGT---------------------     78
+                                        .|||||||||                     
+ph207_BM33673   1301 ACGAAAGACTTCTAAGAGTAGAGCAACGTGTAACTCCTGTCCATATCAGT   1350
+
+b73_BM336730      78 --------------------------------------------------     78
+                                                                       
+ph207_BM33673   1351 GACAACATAAGGTAGTTCCAAACAGAGACTAGTATCTTAGAATGTTGCTT   1400
+
+b73_BM336730      78 --------------------------------------------------     78
+                                                                       
+ph207_BM33673   1401 CTCTAGTTTGTATAGCATGTACCACTTTAGGTTAACTAGACAGGTCAATA   1450
+
+b73_BM336730      78 --------------------------------------------------     78
+                                                                       
+ph207_BM33673   1451 AAGAGACGATGTCTGACAGAAGAACTCGTAAAGTTTCATATGTGTTGTTT   1500
+
+b73_BM336730      78 --------------------------------------------------     78
+                                                                       
+ph207_BM33673   1501 TCTTTGTCTGACAACATGAGTTTGTTGAGTGAGCAGTGGACAGATGGATA   1550
+
+b73_BM336730      79 ----------------------------CGGCATGGG------------G     88
+                                                 |..||||||            |
+ph207_BM33673   1551 GAAGTTATCCAAAGCAAGTTGGATGCAACCTCATGGGTAAAACACAAAAG   1600
+
+b73_BM336730      89 AG------------------------------------------------     90
+                     ||                                                
+ph207_BM33673   1601 AGGTTTGTCGATAAGTCAGCATTAGAACTCCATAGCACATGAGATGAGTG   1650
+
+b73_BM336730      90 --------------------------------------------------     90
+                                                                       
+ph207_BM33673   1651 TGGATGTTGAACAACATAACGGTTAACTCGTGGTTAGGCAGAGAATTTAA   1700
+
+b73_BM336730      90 --------------------------------------------------     90
+                                                                       
+ph207_BM33673   1701 GTCCAAGAAAAAGGATAGAGCCTCGAAAAGACATCAGGGATGGAATCTGC   1750
+
+b73_BM336730      91 -----------------------------------------GCATGGC-C     98
+                                                              ||||||| |
+ph207_BM33673   1751 AGATGTTGACTTCATAATCAATTCAGTTTATCAAGCACTAAGCATGGCTC   1800
+
+b73_BM336730      99 GAC-------------------------------GGCG------------    105
+                     |||                               ||||            
+ph207_BM33673   1801 GACTTGATCACACATGCTGGAAAAGCACACGTGAGGCGATCGAGGCATGA   1850
+
+b73_BM336730     105 --------------------------------------------------    105
+                                                                       
+ph207_BM33673   1851 CTAGAGCGATGATTAGGTGGTTACCAGTCAACTTGACTTGATTCTTGTAA   1900
+
+b73_BM336730     105 --------------------------------------------------    105
+                                                                       
+ph207_BM33673   1901 GTACTTCCCTAGGATGGGTTGAACTAAAGTGAGTTTAGACAACTCGACAA   1950
+
+b73_BM336730     105 --------------------------------------------------    105
+                                                                       
+ph207_BM33673   1951 AACGATTTCTAAACTCAATCTTTGTTTATAAGGTAGCTACAAGTTAGTAA   2000
+
+b73_BM336730     105 --------------------------------------------------    105
+                                                                       
+ph207_BM33673   2001 AACCAACTTGTTGAACTACTTTGGACATGAAATAATAATTTTTTATCACA   2050
+
+b73_BM336730     106 --------CACAG-------CC----------GGAG--------------    116
+                             |||||       ||          ||||              
+ph207_BM33673   2051 CGGTTAGACACAGATGGGTTCCAATTTTCAATGGAGACTTCTAAATTGCT   2100
+
+b73_BM336730     117 ---------------------------------------TTGA-------    120
+                                                            ||||       
+ph207_BM33673   2101 AGTGAATTCGTTAAAGAGCACATTAAAGCGGTATGCTTCTTGATTCAATA   2150
+
+b73_BM336730     120 --------------------------------------------------    120
+                                                                       
+ph207_BM33673   2151 GAGATGACAGATGTTGCTTGAGTATTTCACAAACAACATAGAAATTGTTT   2200
+
+b73_BM336730     120 --------------------------------------------------    120
+                                                                       
+ph207_BM33673   2201 CAAGGGAAAGGTTTATGGAAGATAATATATCGGTGTAGTTCCGTAATGGA   2250
+
+b73_BM336730     121 ----------------CGA-------------------------------    123
+                                     |||                               
+ph207_BM33673   2251 TCATGACTAGAGACCTCGATACCAGCATGCGCTGAGCAGAAAATCCTGTG   2300
+
+b73_BM336730     124 --------CACCGGAG----------------------------------    131
+                             |||.||||                                  
+ph207_BM33673   2301 TGCGCATTCACAGGAGGCTATTAGTCTCGTCGCGGCACCATAAGTCATTA   2350
+
+b73_BM336730     131 --------------------------------------------------    131
+                                                                       
+ph207_BM33673   2351 ATCATGACACCATTGTTGAACATCACCAACAATGAATCCCATGTGGTAAG   2400
+
+b73_BM336730     131 --------------------------------------------------    131
+                                                                       
+ph207_BM33673   2401 AACAATTTGTGTAGAGATAACATATCGCTATAGTCTCATAATGGATTATG   2450
+
+b73_BM336730     131 --------------------------------------------------    131
+                                                                       
+ph207_BM33673   2451 ACTACTAACTGTGATACCAGCGCGTGCCTAGTAGCGCAACCATGTGTTGA   2500
+
+b73_BM336730     131 --------------------------------------------------    131
+                                                                       
+ph207_BM33673   2501 TCACCCACATGAAGCCCTCGGTTTCGTAGCGGCACCATTGGTTTTAGTCA   2550
+
+b73_BM336730     131 --------------------------------------------------    131
+                                                                       
+ph207_BM33673   2551 TAACACCATTACTAGACGTAACCAATAAGGAATCTCACGCAACGCAAATA   2600
+
+b73_BM336730     132 --CTGAG--AGG--GGCA--------------------------------    143
+                       |||||  |||  ||||                                
+ph207_BM33673   2601 GACTGAGCAAGGATGGCAATATACAAAATAGACTCCACTTGTAAAAATGA   2650
+
+b73_BM336730     144 ---------------------------GGGCCGGTG--------------    152
+                                                ||.|||.||              
+ph207_BM33673   2651 TTACAAGTAGAGAGTCAAATAGATCATGGCCCGATGAAATGAACAAGACA   2700
+
+b73_BM336730     152 --------------------------------------------------    152
+                                                                       
+ph207_BM33673   2701 TGGTCAGAACCTAAATTGGTTGATGAAGGGAGTATGATGGGAGACTGATG   2750
+
+b73_BM336730     153 ---GGCTA------------------------------------------    157
+                        |.|||                                          
+ph207_BM33673   2751 GGAGACTATTAATTCAGCCCCAAGCATATTTCTATGCCCATCGTAGAGAT   2800
+
+b73_BM336730     158 -------------------------------ACGGAG-------------    163
+                                                    ||||||             
+ph207_BM33673   2801 GACAAGGTCAAGGATTAGTATTTTATTAGATACGGAGGGAAAACAATCAT   2850
+
+b73_BM336730     163 --------------------------------------------------    163
+                                                                       
+ph207_BM33673   2851 AATATTAAGTTGGTATGTCTTCGATAGATATGAGGAAACCAAAGGCATCA   2900
+
+b73_BM336730     164 ------------------------------CTGG----------------    167
+                                                   ||||                
+ph207_BM33673   2901 AACTCAAGAAATTGATCGGACATGTCTTTCCTGGGTTAGGTTGATAAAAT   2950
+
+b73_BM336730     167 --------------------------------------------------    167
+                                                                       
+ph207_BM33673   2951 AATGACATGATCCTCAAGAAGAGGCAAACTGGAATAAAGGATATAAGCTT   3000
+
+b73_BM336730     167 --------------------------------------------------    167
+                                                                       
+ph207_BM33673   3001 GCACCAACCAAATAAGGACATGGTTTAGGATGGAGACAAGACCACAAAAG   3050
+
+b73_BM336730     168 -------------------------------CGAG---------------    171
+                                                    ||||               
+ph207_BM33673   3051 AGTCACATATTAACTATCTAGAACACAGACTCGAGATCCTTATTTTAAGT   3100
+
+b73_BM336730     172 ------------------------------------------CATTGGCA    179
+                                                               ||||.|||
+ph207_BM33673   3101 CTGCGTGTATTTTACATCCAACAAAAAGATTATCTAAGCATTCATTTGCA   3150
+
+b73_BM336730     180 C-------------------------------------------------    180
+                     |                                                 
+ph207_BM33673   3151 CGAGTTTGGTCATGGAGTGATAACGGAAAATTCAAATTCATCCATGCTTA   3200
+
+b73_BM336730     180 --------------------------------------------------    180
+                                                                       
+ph207_BM33673   3201 GAGATTTGGAGGAAGTTTCAGAGAAATGACAAAGTTATGGTTTAAACCTC   3250
+
+b73_BM336730     181 --------------------------------------GGTTG----GAG    188
+                                                           |||||    |||
+ph207_BM33673   3251 TTATTATTTCAAAGATGGAGATGATGAGGATACATCCTGGTTGAATTGAG   3300
+
+b73_BM336730     189 AAG-----------------------------------------------    191
+                     |||                                               
+ph207_BM33673   3301 AAGATTCCAAATCTTGTGAAATGATAAGCTTAACACAAGATGACACATAG   3350
+
+b73_BM336730     192 -----------------------------------------------GAG    194
+                                                                    |||
+ph207_BM33673   3351 GATGAATAGTTGAGTTTAATACGGGTTTAGGTCAAGGTTCACTAAATGAG   3400
+
+b73_BM336730     195 C-------------------------------------------------    195
+                     |                                                 
+ph207_BM33673   3401 CACATGACCTAGCTTTGGGTTTAGGCAAACAAGTCACCAACATTCTATCA   3450
+
+b73_BM336730     195 --------------------------------------------------    195
+                                                                       
+ph207_BM33673   3451 GCACATCAAATACAAGAGCAAACACCATTTGCACTAATGGTCAAATTAAG   3500
+
+b73_BM336730     195 --------------------------------------------------    195
+                                                                       
+ph207_BM33673   3501 AAAAGCTGGAAGCCATCTAAACACGTATCTCTAAGACACCACATTATTTA   3550
+
+b73_BM336730     195 --------------------------------------------------    195
+                                                                       
+ph207_BM33673   3551 CAATCACCAAGTATTGGAATAAAGGTGAGAGAAGCATGTTGGTGCACAGG   3600
+
+b73_BM336730     195 --------------------------------------------------    195
+                                                                       
+ph207_BM33673   3601 GGACAAACATGATGCAACAATCAGGATGCATGCTCGTCCTGTTCATCCTC   3650
+
+b73_BM336730     195 --------------------------------------------------    195
+                                                                       
+ph207_BM33673   3651 ACAAGTTTTGTCAATATAATGTGGCAATAGCGTTCTATATCGGTGGCATT   3700
+
+b73_BM336730     195 --------------------------------------------------    195
+                                                                       
+ph207_BM33673   3701 CTAACGACTCTCTCGTTATTTTGCTAGTCGTCGGCTACATATAAATTTTC   3750
+
+b73_BM336730     195 --------------------------------------------------    195
+                                                                       
+ph207_BM33673   3751 GAGATTAATGTACCTGCAGAAAATTCCATCATAGCCCAATTTTCCATGAT   3800
+
+b73_BM336730     195 --------------------------------------------------    195
+                                                                       
+ph207_BM33673   3801 GCAAGATCCACACATGACAGTTTTATCACAATTTATACTCCATATATTGC   3850
+
+b73_BM336730     195 --------------------------------------------------    195
+                                                                       
+ph207_BM33673   3851 TATATGGAGGCTAGCTCCTCATTAAGCGTCGAGCCACGCATAGGCGCCGC   3900
+
+b73_BM336730     195 --------------------------------------------------    195
+                                                                       
+ph207_BM33673   3901 TGTCACACTTTAACCATAGGACAACCCATTATGGTAACTCACCTTACCTA   3950
+
+b73_BM336730     195 --------------------------------------------------    195
+                                                                       
+ph207_BM33673   3951 GACGTAGGTGTGTTGCTGCAAGCACATTACACTTCTCAGTATTCCCATGT   4000
+
+b73_BM336730     195 --------------------------------------------------    195
+                                                                       
+ph207_BM33673   4001 CTGTATAACCATACACATCCATGGGGTACAGAATCCCTGAAAATTAAATA   4050
+
+b73_BM336730     195 --------------------------------------------------    195
+                                                                       
+ph207_BM33673   4051 CTCCACATCGCAGCCTTCATATATACATATATGTGTAACATGTATATAAT   4100
+
+b73_BM336730     195 --------------------------------------------------    195
+                                                                       
+ph207_BM33673   4101 CAAGCCCTTTTTTATGCTCTCCCCTAGACCGACGTTTGTTCGGTCATTCT   4150
+
+b73_BM336730     195 --------------------------------------------------    195
+                                                                       
+ph207_BM33673   4151 CTCACATCTCACCTTACCTGAGCATCGATCCATTCAAGACTGAATGACCT   4200
+
+b73_BM336730     195 --------------------------------------------------    195
+                                                                       
+ph207_BM33673   4201 CAAAAATAACAATACACATGTATGCAATTATCCCCTGGTTGTGGGTTAGT   4250
+
+b73_BM336730     196 ----------------------------------AGGGCTT---AGAGG-    207
+                                                       |||||||   ||||| 
+ph207_BM33673   4251 GTTTTGAGCTAAGCCACCTCATAGTCCTTAATTTAGGGCTTAACAGAGGA   4300
+
+b73_BM336730     207 --------------------------------------------------    207
+                                                                       
+ph207_BM33673   4301 TGTCGCTAGCATTATAGTTTTTCAAATATGCTTTTCAAAACCAAATAATG   4350
+
+b73_BM336730     207 --------------------------------------------------    207
+                                                                       
+ph207_BM33673   4351 TGTTTACTTGAAAATAGGTTTTCTAAAACCAAAACTTTGTTTTGAAATAA   4400
+
+b73_BM336730     207 --------------------------------------------------    207
+                                                                       
+ph207_BM33673   4401 GTTTGTGACCGTATTATACTTAATCCTGCTCAGATACCAGTTGTGGCAGA   4450
+
+b73_BM336730     208 --------------------------------CCTTGTGCCATAGAGCTT    225
+                                                     |||.||..||.|||.|||
+ph207_BM33673   4451 ATCTCCCAAGTTATTGGGCCACATGTACATGTCCTCGTCTCAAAGACCTT   4500
+
+b73_BM336730     226 ----GGCT----------ACCGG--------------------CGAG---    238
+                         ||||          |||||                    ||||   
+ph207_BM33673   4501 AGACGGCTATGCATGTGCACCGGATAACTTAACAGGATCTGTCCGAGTGT   4550
+
+b73_BM336730     238 --------------------------------------------------    238
+                                                                       
+ph207_BM33673   4551 CCCAAGGACCCCGAATAAACCACTTACAACTAGGATCGCAAGATTAAGTA   4600
+
+b73_BM336730     238 --------------------------------------------------    238
+                                                                       
+ph207_BM33673   4601 AACACAAATCACACAACAACATTTGTAGCAGAATTTCTTTATTACAAAAA   4650
+
+b73_BM336730     238 --------------------------------------------------    238
+                                                                       
+ph207_BM33673   4651 GTTACAAGTTACAACAAATTTACATTATATTTATCGGAGTGATTACAAAA   4700
+
+b73_BM336730     238 --------------------------------------------------    238
+                                                                       
+ph207_BM33673   4701 TTGATTCAAAGAAATATACTTTGAAATGTTATAAATTATTTATAATTTTG   4750
+
+b73_BM336730     238 --------------------------------------------------    238
+                                                                       
+ph207_BM33673   4751 AAATATATGCTAGCTCAATGACAATCCTTAATAAGAAGTATAGAAGAGCT   4800
+
+b73_BM336730     238 --------------------------------------------------    238
+                                                                       
+ph207_BM33673   4801 ACTTTAACCTATAAGAAGGTCGAGCCCACTGGCACTAAGCACCATCAACA   4850
+
+b73_BM336730     239 -------------------------------------------CTGA---    242
+                                                                ||||   
+ph207_BM33673   4851 GCAGCACAAATCTAGTACCTGCAACAACATGGGTTCGAAAACACTGAGTA   4900
+
+b73_BM336730     242 --------------------------------------------------    242
+                                                                       
+ph207_BM33673   4901 CGGAGTGTACTTTCGCAAGTCTTACCCGTTTAAGGAAAAAGACTCTCAAG   4950
+
+b73_BM336730     242 --------------------------------------------------    242
+                                                                       
+ph207_BM33673   4951 GATATGCTGGCTTTTGGGAATCAAGGTAAAGCTTATGAAGATTCAAAGAC   5000
+
+b73_BM336730     243 ------TGCAG---GGC---------------------------------    250
+                           |||||   |||                                 
+ph207_BM33673   5001 TCTTTTTGCAGAAAGGCTTACTAGTAGTGGATCCTTATGCAAAAATTTTA   5050
+
+b73_BM336730     250 --------------------------------------------------    250
+                                                                       
+ph207_BM33673   5051 CTTCACAAGTTAAGTACTTTTCCTGAATCTAGTTTTGCCTAATCTAGAGC   5100
+
+b73_BM336730     250 --------------------------------------------------    250
+                                                                       
+ph207_BM33673   5101 ATTCACTTGTTCTGGTCTAGCTTTCTTTTACCAAATTCTTATTTTACTTA   5150
+
+b73_BM336730     250 --------------------------------------------------    250
+                                                                       
+ph207_BM33673   5151 TTAACTACGATGAGTGGTCGGAGGGTAGAGTCTCCATGACTGAGGAGCAA   5200
+
+b73_BM336730     251 -------------------------GCTGGG-------------------    256
+                                              ||||||                   
+ph207_BM33673   5201 CGACGATTCGAATCAATTATACCCAGCTGGGGATCCCTAACCACATGACA   5250
+
+b73_BM336730     257 -----AGCTC----------------------------------------    261
+                          |||.|                                        
+ph207_BM33673   5251 TATGTAGCACTTAACCCTTGCATATGTCAACCGTTCCCACAGATCCTCCA   5300
+
+b73_BM336730     262 --------------------------GAGCACAG----------------    269
+                                               ||||||||                
+ph207_BM33673   5301 CAACGTGAACCGGTCCGCGCTACCGGGAGCACAGTACTCCTCCGTCCAGC   5350
+
+b73_BM336730     270 ---------GGAG-----------------CAGCTC--------------    279
+                              ||||                 ||.|||              
+ph207_BM33673   5351 CTCTAGCCAGGAGGTACACGCTACTCCCACCATCTCCCACGCCCAGTGCG   5400
+
+b73_BM336730     280 -----------------------------------GGC-TACCG------    287
+                                                        ||| |||||      
+ph207_BM33673   5401 CGGTTGTCTTTTCACGTATGGAATAGCCGAGTTCAGGCTTACCGAAGCAT   5450
+
+b73_BM336730     288 ----------GCAAAG-----ACCA----AG-------------------    299
+                               ||||||     ||||    ||                   
+ph207_BM33673   5451 GTGGCAAGTTGCAAAGTCTCCACCACAACAGGCCTACATCGAACGGTCCT   5500
+
+b73_BM336730     300 -------CGCAGA-------------------------------------    305
+                            ||||||                                     
+ph207_BM33673   5501 TAATCGACGCAGAAGGGCGAACTTTCCTGCTCAACGTCTGGTCTACATTA   5550
+
+b73_BM336730     305 --------------------------------------------------    305
+                                                                       
+ph207_BM33673   5551 CATATTATTTCCCAAAACTTGATACCTGAGAGAGGCACCCTACTTGAATT   5600
+
+b73_BM336730     305 --------------------------------------------------    305
+                                                                       
+ph207_BM33673   5601 ATGAAATCATTGCGGCCACAATGGGTTCATCATCACAAGTCCTTTTATTT   5650
+
+b73_BM336730     305 --------------------------------------------------    305
+                                                                       
+ph207_BM33673   5651 CACAAACTCCCATATCCCGTGTTACACATCATCTTTCAAAAACCATCCTA   5700
+
+b73_BM336730     305 --------------------------------------------------    305
+                                                                       
+ph207_BM33673   5701 AATTAATAAGCAGGGCTAAGCATCACTAAATTTTCATAAAACAGGTATTA   5750
+
+b73_BM336730     305 --------------------------------------------------    305
+                                                                       
+ph207_BM33673   5751 GGGTTGTTTAATCAAGGAAGGAAATGCATCAACTGTTTGATCACACAACT   5800
+
+b73_BM336730     305 --------------------------------------------------    305
+                                                                       
+ph207_BM33673   5801 CCTATAACCTAATGCATCATTCAAGGTGATAAATTTTTGTAAACATCAAG   5850
+
+b73_BM336730     305 --------------------------------------------------    305
+                                                                       
+ph207_BM33673   5851 GAAAGAGGTGAATGCACCGGGGCTTGCCTAGGATAAACACTACGTTAGTG   5900
+
+b73_BM336730     305 --------------------------------------------------    305
+                                                                       
+ph207_BM33673   5901 TTGTTAGAGACATCTGGTTGGCGAACATCGAAAATCCTGGTACGGTCAAT   5950
+
+b73_BM336730     305 --------------------------------------------------    305
+                                                                       
+ph207_BM33673   5951 CCATTCATCTTCTGTCGACATAGTCACTGAGATATCGTCGGTCCATGCCC   6000
+
+b73_BM336730     306 --------------------------------------CGAGCTGAACAT    317
+                                                           ||||.||.||||
+ph207_BM33673   6001 TTCATCTCGCACGATCATTAGCGTACCTACATGATATGCGAGATGCACAT   6050
+
+b73_BM336730     317 --------------------------------------------------    317
+                                                                       
+ph207_BM33673   6051 GAATGGATAGGAGCATAGATAGCACATCAACTAAATCAAGAACCACACCA   6100
+
+b73_BM336730     317 --------------------------------------------------    317
+                                                                       
+ph207_BM33673   6101 CTTGTTCTAATAAATAGGGCCTTGTCAAACAACATAAGAGTTTTCCCAAG   6150
+
+b73_BM336730     318 ---------------CTACAG-----------------------------    323
+                                    ||||||                             
+ph207_BM33673   6151 ATCATAATTTAAACCCTACAGATTTAAAATACTAAGGTGGAATGTCTACT   6200
+
+b73_BM336730     323 --------------------------------------------------    323
+                                                                       
+ph207_BM33673   6201 ATGTAATTTCCATATTCCTTTGAAGGGGACTTAAGGGTAATACATGCTTT   6250
+
+b73_BM336730     323 --------------------------------------------------    323
+                                                                       
+ph207_BM33673   6251 CAACTAATTGAGTAACGATGAATATTTATTCAAGACGATTAGGTTAAGCA   6300
+
+b73_BM336730     323 --------------------------------------------------    323
+                                                                       
+ph207_BM33673   6301 GTCAAGCTCCATTTATGACTTTTAATCAATCAACAAATATAACACCCGAC   6350
+
+b73_BM336730     323 --------------------------------------------------    323
+                                                                       
+ph207_BM33673   6351 AATTACTAAGGCAAGACAATAATGAAATGATAAAATCAGTACAAATAACT   6400
+
+b73_BM336730     323 --------------------------------------------------    323
+                                                                       
+ph207_BM33673   6401 CTAGGCGAATATGTTTAGCTAACTGATTGAATTACCAAACTTATTCTATA   6450
+
+b73_BM336730     323 --------------------------------------------------    323
+                                                                       
+ph207_BM33673   6451 TATTCACTAAAACACTTGTAGCATAATAAGCACGTCAAACTTAAAACCAC   6500
+
+b73_BM336730     323 --------------------------------------------------    323
+                                                                       
+ph207_BM33673   6501 AAGAACTAACCAATCCTAGTGACCTACACAAAAGAATTTCCAAACAAACA   6550
+
+b73_BM336730     323 --------------------------------------------------    323
+                                                                       
+ph207_BM33673   6551 TTTTAATACTTGCTGATTTTGGACATCAAGACAACAACTATTTGTTTAGC   6600
+
+b73_BM336730     323 --------------------------------------------------    323
+                                                                       
+ph207_BM33673   6601 TCATAACTCACAAGATATTCATCCTAAAATAGTAAACTAGGACTTTCTGG   6650
+
+b73_BM336730     323 --------------------------------------------------    323
+                                                                       
+ph207_BM33673   6651 AAAGCTTATGAAGTTCTCTACAACTTTGGTATTACCATCAGAACAAGATT   6700
+
+b73_BM336730     323 --------------------------------------------------    323
+                                                                       
+ph207_BM33673   6701 CAACATTTAGAAATGTCAAATAGTGCTAAACGTAAATTCTGTCTAGATTT   6750
+
+b73_BM336730     324 --------------------------------------GGAGCC------    329
+                                                           ||||.|      
+ph207_BM33673   6751 GGACAGAATTCGACTACTCACTTCAAAAATTCATAACTGGAGTCTCGAGA   6800
+
+b73_BM336730     330 -----------GTG------------------------------------    332
+                                |||                                    
+ph207_BM33673   6801 ATCTAATTCAGGTGATCCTAGACTTTTTCGAAAGCTAATAGAATTGTATA   6850
+
+b73_BM336730     332 --------------------------------------------------    332
+                                                                       
+ph207_BM33673   6851 CAATTCATTTATAAATATCTCAGGTTAATTCAATACATATCAAGGTCAAA   6900
+
+b73_BM336730     332 --------------------------------------------------    332
+                                                                       
+ph207_BM33673   6901 AGACATGAGAAAAGCTCTGCTGTCCAAATTTAAACAGATTCAGAGTTCAC   6950
+
+b73_BM336730     333 ACTTCA--------------------------------------------    338
+                     ||||||                                            
+ph207_BM33673   6951 ACTTCAAACAACTGTAACTTAACTTATAGATCATCAAAAAGGGTGATCCA   7000
+
+b73_BM336730     338 --------------------------------------------------    338
+                                                                       
+ph207_BM33673   7001 AGACTTTTTAGAAAGATTAAAAACAGTACTACAATTCTTCTATAATTACT   7050
+
+b73_BM336730     338 --------------------------------------------------    338
+                                                                       
+ph207_BM33673   7051 AAGGGTTGATTCTCAGTTTAATTTAGTCAAACAAGGCAATTTTCGAAATC   7100
+
+b73_BM336730     338 --------------------------------------------------    338
+                                                                       
+ph207_BM33673   7101 AGTACAAAATTTGGACAGATTCAGGTACTGGACTTTGAAAAATCATAACT   7150
+
+b73_BM336730     338 --------------------------------------------------    338
+                                                                       
+ph207_BM33673   7151 CTTAAACTACTAAACCTATGGTCATAAAATGTTTACACAAATAAGATAAA   7200
+
+b73_BM336730     338 --------------------------------------------------    338
+                                                                       
+ph207_BM33673   7201 GAAGTTGGCTACAACTTCTGTATATAACATTTCTACAGAAAATATGGTTT   7250
+
+b73_BM336730     338 --------------------------------------------------    338
+                                                                       
+ph207_BM33673   7251 ACTTCATGGAACTAGCTGCATAACTAAAACTGTACATGCAGCCCTAAACA   7300
+
+b73_BM336730     338 --------------------------------------------------    338
+                                                                       
+ph207_BM33673   7301 GTAATACATTCAATTTAACTCCTATTTGGCTTCTAGAATTATCATGTTCT   7350
+
+b73_BM336730     338 --------------------------------------------------    338
+                                                                       
+ph207_BM33673   7351 TGACGCTTACTAACGCAAGGAATTAATGTTACTACACAATTGAAATTCAG   7400
+
+b73_BM336730     338 --------------------------------------------------    338
+                                                                       
+ph207_BM33673   7401 ATAAATAACACTAATAGTTCTTATCGGCTAGACAATTTAAAATGCTAATC   7450
+
+b73_BM336730     338 --------------------------------------------------    338
+                                                                       
+ph207_BM33673   7451 CTACTTCTCGCATTATTAATTAAATCTCACCTAGCACACAAGTCTAACAA   7500
+
+b73_BM336730     338 --------------------------------------------------    338
+                                                                       
+ph207_BM33673   7501 CACATGACGCGACTACTGCATATTCATGAAAACAATCACAACACCATATG   7550
+
+b73_BM336730     339 ----GAAAC-----------------------------------------    343
+                         |||||                                         
+ph207_BM33673   7551 AGAGGAAACATTTCTGCAACACATTATGAGCAACATATAACCCAAAGGAA   7600
+
+b73_BM336730     343 --------------------------------------------------    343
+                                                                       
+ph207_BM33673   7601 AAGAGAAAGATATCCTTCCCTGAGCATTGCCACAGTATAACTAACCAATC   7650
+
+b73_BM336730     343 --------------------------------------------------    343
+                                                                       
+ph207_BM33673   7651 CAACTAATAGTAAAAACAAATCAGCTCACCATAATCGAATCGACTCGATA   7700
+
+b73_BM336730     343 --------------------------------------------------    343
+                                                                       
+ph207_BM33673   7701 TATGCAAGAACGGCGACAGTTCCTTGGTTCTATTTCGTCGAACACCTAGA   7750
+
+b73_BM336730     343 --------------------------------------------------    343
+                                                                       
+ph207_BM33673   7751 GCGCACCGAACTGAAACATATTTCCTTCATCGATTCAGTCACTTCATCGA   7800
+
+b73_BM336730     343 ------------------------------    343
+                                                   
+ph207_BM33673   7801 ACATAAGGGATGCAAGCTAGCAGAGACAGC   7830
+
+
+#---------------------------------------
+#---------------------------------------

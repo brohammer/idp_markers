@@ -1,0 +1,74 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:10
+# Commandline: needle
+#    [-asequence] /tmp/6zYNopAUpq
+#    [-bsequence] /tmp/s7LiJpX8Uo
+#    -gapextend 0
+#    -auto
+#    [-outfile] BM080538_BM080538
+# Align_format: srspair
+# Report_file: BM080538_BM080538
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BM080538
+# 2: ph207_BM080538
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 489
+# Identity:     469/489 (95.9%)
+# Similarity:   469/489 (95.9%)
+# Gaps:          13/489 ( 2.7%)
+# Score: 2257.0
+# 
+#
+#=======================================
+
+b73_BM080538       1 ACGACTCACGAGCGAATACATCTGGATCAAAGCACCCACACATTACTACA     50
+                     |||||||||||||||||||||.||||||||||||||||||||||||||||
+ph207_BM08053      1 ACGACTCACGAGCGAATACATTTGGATCAAAGCACCCACACATTACTACA     50
+
+b73_BM080538      51 TAGAGAGAGTAAACAGACAGAAGCGCACACATCGGTTCATGCCTACGTAC    100
+                     |||||||||||.||||||||||||||||||||||||||||||||||||||
+ph207_BM08053     51 TAGAGAGAGTACACAGACAGAAGCGCACACATCGGTTCATGCCTACGTAC    100
+
+b73_BM080538     101 TCTGCTCGCGGCAACATGCATCCACGATACACCGTTACGAACTGTGTA--    148
+                     ||||||||||||||||||||||||||||||||||||||||||||||||  
+ph207_BM08053    101 TCTGCTCGCGGCAACATGCATCCACGATACACCGTTACGAACTGTGTAGA    150
+
+b73_BM080538     149 -GACCATTCCTAAACACCATAATAAATGACTAGAGACAGGCACACCTCGA    197
+                      |||.|||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM08053    151 CGACGATTCCTAAACACCATAATAAATGACTAGAGACAGGCACACCTCGA    200
+
+b73_BM080538     198 TATAGCTTAAAATACCAGTAGCATTATTTTATTACTCTCCGCCAGCGCCA    247
+                     |.||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM08053    201 TCTAGCTTAAAATACCAGTAGCATTATTTTATTACTCTCCGCCAGCGCCA    250
+
+b73_BM080538     248 TGCATGCATTCCTCGCCC-GGACGCGCACAGGACGCCTCATCACTTAATT    296
+                     |||||||||||||||||| ||||||||||||||||||   ||||||||||
+ph207_BM08053    251 TGCATGCATTCCTCGCCCGGGACGCGCACAGGACGCC---TCACTTAATT    297
+
+b73_BM080538     297 AATCCTGCAAAGAGAAACAGAGAGAGAGAAACAAGGTTACA-GCACGTCG    345
+                     |||||||||||||||.|||.||||||||||||||||||||| ||||||||
+ph207_BM08053    298 AATCCTGCAAAGAGAGACACAGAGAGAGAAACAAGGTTACAGGCACGTCG    347
+
+b73_BM080538     346 GTGTAGTCCAGAAACACAGAACGGCCGGCGCAAGCGCAATGGTAATAATC    395
+                     ||||||||||||||||||||||||||||||||||||||||||   |||||
+ph207_BM08053    348 GTGTAGTCCAGAAACACAGAACGGCCGGCGCAAGCGCAATGG---TAATC    394
+
+b73_BM080538     396 TAGCTGCAGAGCAGTATTGGAACGAGAGAACACGGCATATATGCAGGAGC    445
+                     ||||.|||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM08053    395 TAGCAGCAGAGCAGTATTGGAACGAGAGAACACGGCATATATGCAGGAGC    444
+
+b73_BM080538     446 GTGTGTGTAGTCAGTCGTACGTGTTGCAGTTAACGTTGG    484
+                       |||||||||||||||||||||||||||||||||||||
+ph207_BM08053    445 --GTGTGTAGTCAGTCGTACGTGTTGCAGTTAACGTTGG    481
+
+
+#---------------------------------------
+#---------------------------------------

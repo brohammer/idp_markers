@@ -1,0 +1,58 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:32
+# Commandline: needle
+#    [-asequence] /tmp/LSw1xN7wWg
+#    [-bsequence] /tmp/Ea_WSDxiN5
+#    -gapextend 0
+#    -auto
+#    [-outfile] BM341047_BM341047
+# Align_format: srspair
+# Report_file: BM341047_BM341047
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BM341047
+# 2: ph207_BM341047
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 290
+# Identity:     290/290 (100.0%)
+# Similarity:   290/290 (100.0%)
+# Gaps:           0/290 ( 0.0%)
+# Score: 1450.0
+# 
+#
+#=======================================
+
+b73_BM341047       1 TTATATGGCCCAAACAAGGCAAAACCGCTGGCAACACCGCAGGATGATGT     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM34104      1 TTATATGGCCCAAACAAGGCAAAACCGCTGGCAACACCGCAGGATGATGT     50
+
+b73_BM341047      51 GCCCAAGCCCAATGATCGGCAAGACGAGCGGGGTGTCCATTCTTGGGAAC    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM34104     51 GCCCAAGCCCAATGATCGGCAAGACGAGCGGGGTGTCCATTCTTGGGAAC    100
+
+b73_BM341047     101 TTCCAGCAGGAGAATATGCATGTCCTCTACCACCTGCGCCGGGGCAAGAT    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM34104    101 TTCCAGCAGGAGAATATGCATGTCCTCTACCACCTGCGCCGGGGCAAGAT    150
+
+b73_BM341047     151 CACCTTCACCAAGGCCATCTGCGACTCCTTGCAACAGATAGGTTCCGCAT    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM34104    151 CACCTTCACCAAGGCCATCTGCGACTCCTTGCAACAGATAGGTTCCGCAT    200
+
+b73_BM341047     201 GGACTGGAAACTTGGTCTCGTGATCTTGTACTCCGTGACAGGATTTTAGA    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM34104    201 GGACTGGAAACTTGGTCTCGTGATCTTGTACTCCGTGACAGGATTTTAGA    250
+
+b73_BM341047     251 GAATTTGTACATTGAGATTGGGGACTAGACATCGGTGCTC    290
+                     ||||||||||||||||||||||||||||||||||||||||
+ph207_BM34104    251 GAATTTGTACATTGAGATTGGGGACTAGACATCGGTGCTC    290
+
+
+#---------------------------------------
+#---------------------------------------

@@ -1,0 +1,58 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:01
+# Commandline: needle
+#    [-asequence] /tmp/dEs00g3nWq
+#    [-bsequence] /tmp/9hIx6fnTtW
+#    -gapextend 0
+#    -auto
+#    [-outfile] BG842278_BG842278
+# Align_format: srspair
+# Report_file: BG842278_BG842278
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BG842278
+# 2: ph207_BG842278
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 252
+# Identity:     251/252 (99.6%)
+# Similarity:   251/252 (99.6%)
+# Gaps:           0/252 ( 0.0%)
+# Score: 1251.0
+# 
+#
+#=======================================
+
+b73_BG842278       1 ACGCGGCCGATAAATAGCACTACCTTATTTTTTATTGTTGTATGTGTATA     50
+                     |||||||||||||||||||||||||.||||||||||||||||||||||||
+ph207_BG84227      1 ACGCGGCCGATAAATAGCACTACCTCATTTTTTATTGTTGTATGTGTATA     50
+
+b73_BG842278      51 TGTATGTAGAAATTTATGTGAAAGCCCACTAGAAGCAGACACAAGCGTAC    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BG84227     51 TGTATGTAGAAATTTATGTGAAAGCCCACTAGAAGCAGACACAAGCGTAC    100
+
+b73_BG842278     101 ACACATACATAAAGACGTGCGAAAAGCTCGACGCAATGGTGATTGGTAAT    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BG84227    101 ACACATACATAAAGACGTGCGAAAAGCTCGACGCAATGGTGATTGGTAAT    150
+
+b73_BG842278     151 TGCCTGACTGACGATGACGACACCAAATTCAAATCTGAGCAGCACGATCC    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BG84227    151 TGCCTGACTGACGATGACGACACCAAATTCAAATCTGAGCAGCACGATCC    200
+
+b73_BG842278     201 CCGGGCTCGTCGCCCCATCTGGACGGGCAGAACGTGATGATGTACTCCTG    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BG84227    201 CCGGGCTCGTCGCCCCATCTGGACGGGCAGAACGTGATGATGTACTCCTG    250
+
+b73_BG842278     251 CG    252
+                     ||
+ph207_BG84227    251 CG    252
+
+
+#---------------------------------------
+#---------------------------------------

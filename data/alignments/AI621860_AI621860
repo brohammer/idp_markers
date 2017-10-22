@@ -1,0 +1,586 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:30
+# Commandline: needle
+#    [-asequence] /tmp/9goR6XAQh7
+#    [-bsequence] /tmp/v0aQqx1EAy
+#    -gapextend 0
+#    -auto
+#    [-outfile] AI621860_AI621860
+# Align_format: srspair
+# Report_file: AI621860_AI621860
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_AI621860
+# 2: ph207_AI621860
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 6886
+# Identity:    1668/6886 (24.2%)
+# Similarity:  1668/6886 (24.2%)
+# Gaps:        5203/6886 (75.6%)
+# Score: 8210.0
+# 
+#
+#=======================================
+
+b73_AI621860       1 CAGACGAGGACCGTTACAGC-GGGAAAATGAAATGAAGCATGGAAAGGAC     49
+                     |||||||||||||||||||| |||||||||||||||||||||||||||.|
+ph207_AI62186      1 CAGACGAGGACCGTTACAGCGGGGAAAATGAAATGAAGCATGGAAAGGGC     50
+
+b73_AI621860      50 AAACAAAAAACAAACACTTCTATTTCTTCTTCCCAGCTTTTCCTTCCTTC     99
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62186     51 AAACAAAAAACAAACACTTCTATTTCTTCTTCCCAGCTTTTCCTTCCTTC    100
+
+b73_AI621860     100 CTTCTGACAACTTCATCCATGTATCTGATACCCTTCCCCTTGTATGGCTC    149
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62186    101 CTTCTGACAACTTCATCCATGTATCTGATACCCTTCCCCTTGTATGGCTC    150
+
+b73_AI621860     150 AGGTGGCCTCCACTTCTTTATGGTAGCAGCGAACTGACCGATCGCGCTCT    199
+                     ||||||||||||||||||||.|||||||||||||||.|||||||||||||
+ph207_AI62186    151 AGGTGGCCTCCACTTCTTTACGGTAGCAGCGAACTGGCCGATCGCGCTCT    200
+
+b73_AI621860     200 TGTCGTAGCCGCTCACGATGATCCTTGTGTTCTCTTCCACCTTGACCGCC    249
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62186    201 TGTCGTAGCCGCTCACGATGATCCTTGTGTTCTCTTCCACCTTGACCGCC    250
+
+b73_AI621860     250 AGGCCTTCGGGAATGGCCATCCGAACAGGGTGGGAGAATCCCAGGTTCAT    299
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62186    251 AGGCCTTCGGGAATGGCCATCCGAACAGGGTGGGAGAATCCCAGGTTCAT    300
+
+b73_AI621860     300 CACGAGATCGTTGCCCTCCACCGCCGCACGGTACCCGACACCTACTAACT    349
+                     |||||||||||||||||||||||||||||||||||||||.||||||||||
+ph207_AI62186    301 CACGAGATCGTTGCCCTCCACCGCCGCACGGTACCCGACGCCTACTAACT    350
+
+b73_AI621860     350 GAAGCTTCTTGTCGAATCCTTTTGACACACCGACGATGATGTTGTCTGTC    399
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62186    351 GAAGCTTCTTGTCGAATCCTTTTGACACACCGACGATGATGTTGTCTGTC    400
+
+b73_AI621860     400 AACGTTCTGCGTTGGATATTTGCACCAGGGTATTTAGAAGAAGACATGGA    449
+                     ||.|||||||||||||||||||||.|||||||||||||||||||||||||
+ph207_AI62186    401 AATGTTCTGCGTTGGATATTTGCAACAGGGTATTTAGAAGAAGACATGGA    450
+
+b73_AI621860     450 AGGACAGGAT-AAAAAAATCCATAGCCTGATTTCTCTAACCAAGCTATAA    498
+                     |||||||||| |||||||||||||||||||||||||||||||||||||||
+ph207_AI62186    451 AGGACAGGATAAAAAAAATCCATAGCCTGATTTCTCTAACCAAGCTATAA    500
+
+b73_AI621860     499 TCAGTTCAGAACACATCAACCATTATTATTCAGTGAAGAATAGAGAGATC    548
+                          ||.||||||||||||.|||||||||||||||||||||||||||||
+ph207_AI62186    501 -----TCGGAACACATCAACGATTATTATTCAGTGAAGAATAGAGAGATC    545
+
+b73_AI621860     549 ATTGATCCTTAAGCAAAGAAAATGTACATACTGTGAGTGAAATAGCAAAG    598
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62186    546 ATTGATCCTTAAGCAAAGAAAATGTACATACTGTGAGTGAAATAGCAAAG    595
+
+b73_AI621860     599 GATTTAGCAGAAGCACGAAGTG--AAAAAACATAGGTAGTGACACAGAGA    646
+                     |||||||||||||.|||||| |  |||||||||||||||||||.||||||
+ph207_AI62186    596 GATTTAGCAGAAGTACGAAG-GAAAAAAAACATAGGTAGTGACGCAGAGA    644
+
+b73_AI621860     647 ATATGGTAAATTTTCACACCTTAATGGTCAATCATTGGTTTTGCATAAAA    696
+                     ||||||||||||||||||||||||||||||||||||||||.|||||||||
+ph207_AI62186    645 ATATGGTAAATTTTCACACCTTAATGGTCAATCATTGGTTGTGCATAAAA    694
+
+b73_AI621860     697 TACTAGCATGTGTGTCTCAACTATTCCCAATTAGTTCCACGGTAAACCAT    746
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62186    695 TACTAGCATGTGTGTCTCAACTATTCCCAATTAGTTCCACGGTAAACCAT    744
+
+b73_AI621860     747 AGAGGAAGTGATACAGACACTTGATAATGTTTGTTATTGATAACACAGAT    796
+                     |||||||||||||||||||||||||||||||||||||||||||||||.||
+ph207_AI62186    745 AGAGGAAGTGATACAGACACTTGATAATGTTTGTTATTGATAACACAAAT    794
+
+b73_AI621860     797 TTTACAGTTCCTGTTCCTGGACACCAGAAACGAGCAATAACATAGCCTAT    846
+                     |||||.||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62186    795 TTTACGGTTCCTGTTCCTGGACACCAGAAACGAGCAATAACATAGCCTAT    844
+
+b73_AI621860     847 TTCCTTGGTACATGCAAGAAGATTTGCATTCATTTTGCAAATCTTTGTCA    896
+                     |||||||||||||||||||||||||||||||||||||||||| |||||||
+ph207_AI62186    845 TTCCTTGGTACATGCAAGAAGATTTGCATTCATTTTGCAAAT-TTTGTCA    893
+
+b73_AI621860     897 GTGCTACTAGAACTGTGGCTATTTTATATCAATGTAGACTGATTGGTGGA    946
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62186    894 GTGCTACTAGAACTGTGGCTATTTTATATCAATGTAGACTGATTGGTGGA    943
+
+b73_AI621860     947 TTTTGTTGAACACTAAATGACAGAAGTGTTGTTTCTCAGGTCTCAAACAA    996
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62186    944 TTTTGTTGAACACTAAATGACAGAAGTGTTGTTTCTCAGGTCTCAAACAA    993
+
+b73_AI621860     997 AACAAGGTCATCATATTTACTGGTCATTGGTGAGATAAGAGGTCAGAGGA   1046
+                     |||||||||||||||.||||||||||||||||||||||||||||||||||
+ph207_AI62186    994 AACAAGGTCATCATACTTACTGGTCATTGGTGAGATAAGAGGTCAGAGGA   1043
+
+b73_AI621860    1047 AAAAATAAATACATGAAGCAGAATAATGCTATCTAGAATCTGAATCCTTG   1096
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62186   1044 AAAAATAAATACATGAAGCAGAATAATGCTATCTAGAATCTGAATCCTTG   1093
+
+b73_AI621860    1097 CCGTTCTTGTTAGAGTGGCCCACTGAACTCTATTCCAAGGCCCAAAAGGG   1146
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62186   1094 CCGTTCTTGTTAGAGTGGCCCACTGAACTCTATTCCAAGGCCCAAAAGGG   1143
+
+b73_AI621860    1147 GCAAATATAGAAGTGCGCATAAGCCAATAACCCCTCAAAGTAGAGGGAAA   1196
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62186   1144 GCAAATATAGAAGTGCGCATAAGCCAATAACCCCTCAAAGTAGAGGGAAA   1193
+
+b73_AI621860    1197 ATACATGTCCATCTATGCATCTAACAGTAGTGGA----------------   1230
+                     ||||||||||||||||||||||||||||||||||                
+ph207_AI62186   1194 ATACATGTCCATCTATGCATCTAACAGTAGTGGAAGGTAGTGTAACGACC   1243
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   1244 CTAGGACGGTGGCGCACCTCCACCGTCGTTAGTCGTCGTCGAGGAGGAAG   1293
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   1294 AAGATTCCAGATGCGACAAACAGAGAGGAGGGAAAAATCAGGTACGAGTA   1343
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   1344 ATTTCTGTTATTCTCCTTTCTGTCTTTCCCAAATACTTGTCCAGTATTTA   1393
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   1394 TAGTACAACCATACTAGGTCCATACAGCCCACTACTAATATGGCCACTAT   1443
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   1444 AGGGCCCAATCACACAAATGAATTACAATGAATCACAACCTCCTGCTTCC   1493
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   1494 ATCGAGCCCAGTCAACCAGTTACGTCCCTGACATCACCCCCCTCGCTCGA   1543
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   1544 GCTTGATTGTCCCCAATCAAGGGCATCTGGAAAGCGCTTCTTGATCACCT   1593
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   1594 CATAATCTTCCCAAGTCGCTGCCTCCTCTGGCAGATGAGCCCACACAACA   1643
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   1644 CGAACGTGAATGACAGCATGACTACCTTTCCGCACCATTCGCCGATCCAC   1693
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   1694 AATGTACAAGGGCTTGACATCAACTTGAGATAAATCCACCATCTTTTCCA   1743
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   1744 AGACTTTGAATGGCCCAAAATACTTGTAAGCCAATTTGGGACAAGGTCGA   1793
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   1794 TTAACGATCGAGCTTTGCACATAGGGCTGCAATTTGAGAAGAACCATTTC   1843
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   1844 TCCTTCTTGGAACACCCGATCAGATCTCTTCTTATCAGCTTGAATTTTCA   1893
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   1894 TTCTGTTTTGGGCTGCTGCTAGCCGAGTCTTTAGAATTTCAGAGCACTGC   1943
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   1944 TGCCTCTCTGTCAGTAAGTCATGCACTGTTGTATCCCCTTCATCAGTCAA   1993
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   1994 TACTGGGGCTGCCGCAAACACCGGGTCATATCCATATAATACCTTGAAGG   2043
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   2044 GGGAGCATCCAATAGAAGTATGATAGGATGTATTGTACCAGAACTCTGCT   2093
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   2094 AATGGGAGCCACTTCTTCCACTTAGCAGGACAATCATGGATGGCACATCT   2143
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   2144 CAAATACATCTCTAAACATTGATTAACTCTCTTTGATTGACCATCAGATT   2193
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   2194 GAGGATGATAGGCAGTGGTTAGAGCCAACTTCGTATCCAATGACTGAAAC   2243
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   2244 AAAGATTTCCAAAAGTGGCTAGTAAAAATTTTATCCCTGTCTGAGACCAA   2293
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   2294 TGACTTAGGAGTGCCATGAAGTTTTACCACGTTGTCTAAAAACACTTGTG   2343
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   2344 CCACAGTTGCTGCCGAAAATGGGTGTTTCAAGGCAAAAAAATGTGCATAC   2393
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   2394 TTAGAATATCTATCCACCACCACCAAAATTGTATCACACCCTTCCGACTT   2443
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   2444 AGGCAGTCCTTCAATAAAATCCATAGTCAAATCTTGCCATGCACCCTGGG   2493
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   2494 GAACAGGAAGGGGTTGGAGCAATCCTGGGTAAAGGACTCTTTCAGACTTA   2543
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   2544 GCATGTTGGCACACTGCACACTGCTGCACAAATAGTTTAACATCCGACTT   2593
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   2594 CAATCCTTTCCACCAAAATAGTCTCTTCACCCTCTGATAGGTTGCCAGAC   2643
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   2644 AGCCTGAGTGACCTCCTACTATACTGTCATGTAATGCCGCAATGATCTTA   2693
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   2694 GTTCTAAGGGCTGAGTTCTGAGCAATCCAAATCTGAGAACCTCTTCTGAT   2743
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   2744 CACACCCTGCTGCACAGAAAAACCTTGTTCATTGGGACTGTGAAGCACCA   2793
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   2794 ATTCAGCCAATAACCTTTGAGCTTCTTCATCAGTCACATAGGAATTAAGC   2843
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   2844 ACTTCCTGTACCCATAAAGGTTTCACCTCTGTCAAGGTTTGTAATGCCAT   2893
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   2894 AAAATGACCCACTCTTGATAATGCATCTGCAGCGATGTTCTCCTTCCCTT   2943
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   2944 GTTTATAAACAATCTTGTATTGCAATCCCATTAATCTGGCCATAGCTTTC   2993
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   2994 TTTTGTAGATCTGATTGCAACACTTGTTCAGTTAGGAAGCTCAATGTCTT   3043
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   3044 GTGATCTGTTCTAATCACAAATTCAGCCCTCTGCAGATACTGGCGCCATC   3093
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   3094 TTTGCACTGCCATTAGGAGAGCTAGAAATTCCTTATCATAAATGGAGAGC   3143
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   3144 AGCTGATTTTTTTTCACTCAATGCTTTACTAAGATATGCAATGGGTCTGT   3193
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   3194 TTCTTTGCATGAGAACTGCCCCAATTCCATTCATGCAAGCATCCGTTTCC   3243
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   3244 ACCACAAACAGTTCTTCGAAATTAGGTAAGGCTAATACTGGAGTATCACA   3293
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   3294 CATAGCTTGTTTCAACTGTTGGAAAGCTACGTCAGCTTCTGGACTCCAAT   3343
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   3344 GAAATGCCTTATGTTTGAGTAGATTGGTAAGAGGTTTAGCAATGATGCCA   3393
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   3394 TAATGTTTCACAAATCTCCTGTAGTATCCAGTCAACCCCAAAAAACCCCT   3443
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   3444 TAACTCAGTCACACTGGTAGGTGTAGGCCACTTTTTCATAGCATCCGTCT   3493
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   3494 TAGAAGGATCTGTGGACACACCATCTTGAGAAATGATATGACCCAAGTAT   3543
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   3544 AGCAGCTCAGTCTTGCCAAAAGCACACTTTGACCTCTTCAAATAAAATTG   3593
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   3594 GTGTTCTCTCAACTTCTCAAACACCATCCTCAAATGCTTTAAATGGTCAA   3643
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   3644 CCCAAGAAGCACTATAAATCAATATGTCATCGATGAATACCAAAACAAAT   3693
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   3694 TTCCTAAGAAATGGTGCCAAAACTGAATTCATAGCACACTGGAAGGTTGC   3743
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   3744 AGGTGCATTAGTGAGACCAAATGGCATCACTCTAAATTGGTAATGGCCCT   3793
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   3794 GATGAGTTTTAAACGCTGTCTTGAACTCATCTGTCTCACCCATTCGAATC   3843
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   3844 TGATGGTAACCAGCTATAAGATCAAGACTAGTAAAGAATTGTGTGCCTGC   3893
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   3894 CAACTCATCAAGAATTTCTTCCACAAGGGGCATAGGAAATCTGTTTTTTA   3943
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   3944 CAGTCATGTCATTGAGTTTCCTGTAATCAACACAAAATCTCCAAGACCCA   3993
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   3994 TCTTTCTTCTTCACAAGGAGGACTGGAGAGGCAAACAGACTCACACTAGG   4043
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   4044 TGTAATTAAACCAGCCTCCAACAAAGCATTCACTTGCCTCTCTATTTCAT   4093
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   4094 CCTTGTGGAAAGGAGAATACCTGTATGGTCTGGAATTCACAGGAACAGCT   4143
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   4144 CCTGGCAGAAGGGGAATATAATGATCATATACTCGAGAGGGAGGTAGTTG   4193
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   4194 ACTTGGAACTGTGAACAAATCCCCAAATTCTATGAGCACACACTGAATAT   4243
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   4244 CTGCATGCTGAATATGTGTCTGTTGTTCCACAGAAGTTTCTACCAACACA   4293
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   4294 AAGGCCCACACCTCATTTGCCTTCTCCCACTTGTGTAATTGAGACACCGA   4343
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   4344 TATCTGCTGCACCATCATTGAGTCTTCACCCTCATCTCCCTTAAGGACTA   4393
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   4394 CTGGAACATTCTCATCCATAAAACTGAGAATATTAGCCTTCCAATCACAT   4443
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   4444 TCCATTGGACTATGATTCTGTAGCCAGTCATATCCCAAGATTGCATCAAA   4493
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   4494 AGCACTAATGGGTAAGACTCTCATATCAGTATGATAGAAGTGACCATTTG   4543
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   4544 CCCACCATTCCACATTTTTAACCATTTGATGGCAGTTCATAGAAGCTCCA   4593
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   4594 TTTGCCACCTTCACAGTTACTGGTGAACACGAATGTGTAGGTAATGCCAA   4643
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   4644 CTTCTGAACCATATGTTCACTAATGAAAGTAGTGGAACTACCAGAATCAA   4693
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   4694 CCAACATTACCATGATTTGCTTCTGCACTACTGCTCGAATTCTCATATTT   4743
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   4744 TGCAACCCAACAGTACCAGATAAAGCATGTGTTGAAACCTGGTAGCACAA   4793
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   4794 CCCATGTTGAATATCCTCCTGCTCAAGCTGTTGCAACAACTCATCTGTTA   4843
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   4844 AAACCATCTCCACATTCTCAGTAATAACAGCATTGAGTTGGGCAGGCCCT   4893
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   4894 CGTTTAGTGCATTTAGTAATGTGTCCCGGCTCAAACTTTTCACCACATGC   4943
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   4944 GTAGCACAATCCATTTAGTCTTCGAAACTCCCTCACCTGTCTTTCTTTGG   4993
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   4994 ACAGATCACTCTGCTTCCCTTCTCCCTTAAATCCTAACATGGTCTGTTTG   5043
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   5044 TTAATGAATGGCTGACGCTGCCCCTTGACTTTTGCCTGCTCCAAAATATC   5093
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   5094 ATACTGAGTCTGGGCTAACACAATAGCACGATCAACAGTAGTAGGCAACT   5143
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   5144 GCATTCTGACCACACTTTGGATATCATATTTCAGTCCTCGAACAAAATGA   5193
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   5194 GTCACAAAAAAAATCTCATCGAACAATGGATTGTGTACGGCTACACCATA   5243
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   5244 TCGAATCCGATCAAAATCCTTGATATACTGATCCAGAGTATCAGTTTGTC   5293
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   5294 TCAACTCCAACAGTTTTCTTAGAGCATTTGGATACGCTTCCGCCCCAAAC   5343
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   5344 TTCGTCACCACTGCTGCAGAAAATTCCTGCCAACCTCCCAAACCATTACG   5393
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   5394 CATTTTGTGAAACTGCCACCATTGTGCCGCAGTATGTTCCAAATTCATCG   5443
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   5444 ATGCAACTGAAACCCACATAGCAGCTGGCACACTGAAGATCGAAAAATAT   5493
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   5494 TCCAAACAGTTATTCAACCATACCACTGGGTCGCCTTCAGAGTACTTCGG   5543
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   5544 AAACGGCAGCTTCGGTAGTGGTTGATGATACTGCTCCCCATGTGGGCGTG   5593
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   5594 GTTCTCCCTGACCACCATGCATGCCACCATGAAAACCTCGTGGTGGTTCC   5643
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   5644 CTCCTTTCCTGTCGTGGCCTGTTGAATGGAGGAACTGGTGGCTGATGGTG   5693
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   5694 TTGCTCCCCTTCCACAGCTGCTCCTGGCGTTTCTCCAAGTTCTTTGCTCC   5743
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   5744 TGTTTTCCAGTCGGAGTTGTTCCACCAGCTTCTCTGTTTCCTCCATCTGC   5793
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   5794 TGGCTCATCTGGACCCGCTCGGCGGCTGCCCGCTCAGCCACCGTAGCCGC   5843
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   5844 CAGTTCTGAGCGTACCATCAACTGTTGCTGTGCGCGCTCCACATCCTTCA   5893
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   5894 GCCGCGCACACACTGCTTCCAACGTCTCCATCATCCGCCCCCAATCCTCC   5943
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   5944 TTCGCGCCGCGCTCCTGATCCGCCATCGCCTCCAAGATGAACCGCGTCTG   5993
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   5994 AACAGAAGGCTTAGCCACGGGCACCGTGGTGAAGAACTTGTAGCGCCGAA   6043
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   6044 ATGATTTCTCCGATCTGCACGCCCACGGAGCCGCGCTTGCCGTTGATGAA   6093
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   6094 CACCCACCGCCGCGGATGCTGAATCCGATACCACTGTAACGACCCTAGGA   6143
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   6144 CGGTGGCGCACCTCCACCGTCGTTAGTCGTCGTCGAGGAGGAAGAAGATT   6193
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   6194 CCAGATGCGACAAACAGAGAGGAGGGAAAAATCAGGTACGAGTAATTTCT   6243
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   6244 GTTATTCTCCTTTCTGTCTTTCCCAAATACTTGTCCAGTATTTATAGTAC   6293
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   6294 AGCCATACTAGGTCCATACAGCCCACTACTAATATGGCCACTATAGGGCC   6343
+
+b73_AI621860    1230 --------------------------------------------------   1230
+                                                                       
+ph207_AI62186   6344 CAATCACACAAATGAATTACAATGAATCACAACCTCCTGCTTCCATCGAG   6393
+
+b73_AI621860    1231 --------------------------AGGTAGCAGGATCATAGGACAGTT   1254
+                                               ||||||||||||||||||||||||
+ph207_AI62186   6394 CCCAGTCAACCAGTTACGTCCCTGACAGGTAGCAGGATCATAGGACAGTT   6443
+
+b73_AI621860    1255 TATCTACTCGCATATGAAAATAGCAACTAGCAAGTGTGATACAGCTTATT   1304
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62186   6444 TATCTACTCGCATATGAAAATAGCAACTAGCAAGTGTGATACAGCTTATT   6493
+
+b73_AI621860    1305 CAAGGCACTGTTACTATCACAGTGAAAGTACCCATGGGAATCAATACTGC   1354
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62186   6494 CAAGGCACTGTTACTATCACAGTGAAAGTACCCATGGGAATCAATACTGC   6543
+
+b73_AI621860    1355 CCTTGACTGTACAAAGTGGTAGACTGATAGCATAAATTTTTTTCTTGTGA   1404
+                     |||||||||||||||||||||||||||||||||||||.||||||||||||
+ph207_AI62186   6544 CCTTGACTGTACAAAGTGGTAGACTGATAGCATAAATATTTTTCTTGTGA   6593
+
+b73_AI621860    1405 AAATGAACTGATTCCTGTAAAAAATCCTATGCAATTCCTGTGAAATTCAT   1454
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62186   6594 AAATGAACTGATTCCTGTAAAAAATCCTATGCAATTCCTGTGAAATTCAT   6643
+
+b73_AI621860    1455 GTGTTCCAAAGGGGGCTTAAGAGTGTTGACAAGAGCAGAGAGTTCAGAAG   1504
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62186   6644 GTGTTCCAAAGGGGGCTTAAGAGTGTTGACAAGAGCAGAGAGTTCAGAAG   6693
+
+b73_AI621860    1505 CTGGCAACTAATTTTTAGGAATATCAGGAGAAGAAATATAAAACAAGGAA   1554
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62186   6694 CTGGCAACTAATTTTTAGGAATATCAGGAGAAGAAATATAAAACAAGGAA   6743
+
+b73_AI621860    1555 TAGGTGTAGTGAAACAGTGAACCACATTATGAGAAGCAAATCAGTAAAAA   1604
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62186   6744 TAGGTGTAGTGAAACAGTGAACCACATTATGAGAAGCAAATCAGTAAAAA   6793
+
+b73_AI621860    1605 ATAATATGGGCACACTCATATTGTAGCTTCCAATTGTTTACCTGAAAAGT   1654
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62186   6794 ATAATATGGGCACACTCATATTGTAGCTTCCAATTGTTTACCTGAAAAGT   6843
+
+b73_AI621860    1655 CCGTGCATCTGGTTCGCCCTCTTGGTCTCTGCAGTC   1690
+                     ||||||||||||||||||||||||||||||||||||
+ph207_AI62186   6844 CCGTGCATCTGGTTCGCCCTCTTGGTCTCTGCAGTC   6879
+
+
+#---------------------------------------
+#---------------------------------------

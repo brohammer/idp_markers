@@ -1,0 +1,58 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:06
+# Commandline: needle
+#    [-asequence] /tmp/sa5UE0hppe
+#    [-bsequence] /tmp/PkeNBBPKun
+#    -gapextend 0
+#    -auto
+#    [-outfile] AI691697_AI691697
+# Align_format: srspair
+# Report_file: AI691697_AI691697
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_AI691697
+# 2: ph207_AI691697
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 269
+# Identity:     269/269 (100.0%)
+# Similarity:   269/269 (100.0%)
+# Gaps:           0/269 ( 0.0%)
+# Score: 1345.0
+# 
+#
+#=======================================
+
+b73_AI691697       1 TGTGGACTTTACAACGCTGCATCAGCAGACTAGTACATCTTCGCGTGTAC     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI69169      1 TGTGGACTTTACAACGCTGCATCAGCAGACTAGTACATCTTCGCGTGTAC     50
+
+b73_AI691697      51 ATCTTGAGTCCTTCTGAGCACATACCCTAGTTGCCCCTTACAAAACATCA    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI69169     51 ATCTTGAGTCCTTCTGAGCACATACCCTAGTTGCCCCTTACAAAACATCA    100
+
+b73_AI691697     101 CAAAGCCAACAAAAAGAAACCAACAGAAAGAGGGAAGGAAAAAAAAAACC    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI69169    101 CAAAGCCAACAAAAAGAAACCAACAGAAAGAGGGAAGGAAAAAAAAAACC    150
+
+b73_AI691697     151 TGCTGGAAGGGACCAAGACGACCATCGGGCAACCACCGGTCCCTAGGAAC    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI69169    151 TGCTGGAAGGGACCAAGACGACCATCGGGCAACCACCGGTCCCTAGGAAC    200
+
+b73_AI691697     201 GTCGTGCAACGAAAAAATCCAGGGCTCAGGGAGGCCGGCGCCAGTGGCAG    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI69169    201 GTCGTGCAACGAAAAAATCCAGGGCTCAGGGAGGCCGGCGCCAGTGGCAG    250
+
+b73_AI691697     251 CCCCCCTGGAGAACAATAG    269
+                     |||||||||||||||||||
+ph207_AI69169    251 CCCCCCTGGAGAACAATAG    269
+
+
+#---------------------------------------
+#---------------------------------------

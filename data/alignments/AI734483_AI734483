@@ -1,0 +1,54 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:28:59
+# Commandline: needle
+#    [-asequence] /tmp/BFijevJ3n6
+#    [-bsequence] /tmp/ck1tZQHjL9
+#    -gapextend 0
+#    -auto
+#    [-outfile] AI734483_AI734483
+# Align_format: srspair
+# Report_file: AI734483_AI734483
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_AI734483
+# 2: ph207_AI734483
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 249
+# Identity:     249/249 (100.0%)
+# Similarity:   249/249 (100.0%)
+# Gaps:           0/249 ( 0.0%)
+# Score: 1245.0
+# 
+#
+#=======================================
+
+b73_AI734483       1 CAAATTCCCACAATCACAGGGTCCAGGTGCCCTTGGGACAAAGACTATTA     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI73448      1 CAAATTCCCACAATCACAGGGTCCAGGTGCCCTTGGGACAAAGACTATTA     50
+
+b73_AI734483      51 TCATTACAGGATCCTAATGCTCACCACCAGTAGAGTTTAGTCGTAGAAGG    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI73448     51 TCATTACAGGATCCTAATGCTCACCACCAGTAGAGTTTAGTCGTAGAAGG    100
+
+b73_AI734483     101 ACACCTGCCGCGCATCCAAACCTGCTAACCTTAAAACATTAGCCATCGAA    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI73448    101 ACACCTGCCGCGCATCCAAACCTGCTAACCTTAAAACATTAGCCATCGAA    150
+
+b73_AI734483     151 GGGACAGAGATTTGAGAATGCTCCCTGTACAGGCCTCAAAGACACATTTA    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI73448    151 GGGACAGAGATTTGAGAATGCTCCCTGTACAGGCCTCAAAGACACATTTA    200
+
+b73_AI734483     201 CCTATCTGTTGTGAAACACCACCACAAGCGCGAGTTCCTGAAGCTCAGT    249
+                     |||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI73448    201 CCTATCTGTTGTGAAACACCACCACAAGCGCGAGTTCCTGAAGCTCAGT    249
+
+
+#---------------------------------------
+#---------------------------------------

@@ -1,0 +1,62 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:04
+# Commandline: needle
+#    [-asequence] /tmp/iZcQCuKhM2
+#    [-bsequence] /tmp/m0ggelufAS
+#    -gapextend 0
+#    -auto
+#    [-outfile] BG874137_BG874137
+# Align_format: srspair
+# Report_file: BG874137_BG874137
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BG874137
+# 2: ph207_BG874137
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 334
+# Identity:     250/334 (74.9%)
+# Similarity:   250/334 (74.9%)
+# Gaps:          84/334 (25.1%)
+# Score: 1230.0
+# 
+#
+#=======================================
+
+b73_BG874137       1 ACCGCTCTTAAGGAATCAGCGCGCGGTGCAGTATATACATGTACAAGCAG     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BG87413      1 ACCGCTCTTAAGGAATCAGCGCGCGGTGCAGTATATACATGTACAAGCAG     50
+
+b73_BG874137      51 AGGGTAGATTTTGTGATGCTACAAGACTAGGGTTTTGTAC----ATATAT     96
+                     ||||||||||||||||||||||||||||||||||||||||    ||||||
+ph207_BG87413     51 AGGGTAGATTTTGTGATGCTACAAGACTAGGGTTTTGTACATATATATAT    100
+
+b73_BG874137      97 ACATGTACAAGATATATCACGAAAACTAGTGTTTCGGCAAAATTACATAT    146
+                     ||||||||||||||||||||||||||||||||||||||||||||||    
+ph207_BG87413    101 ACATGTACAAGATATATCACGAAAACTAGTGTTTCGGCAAAATTAC----    146
+
+b73_BG874137     147 ATATATATATATATATATATATATATATATATATATATATATATATATAT    196
+                                                                       
+ph207_BG87413    146 --------------------------------------------------    146
+
+b73_BG874137     197 ATATATATATATATATATATATATATATATATATCCTTTGTCTTCCACGC    246
+                                               ||||||||||||||||||||||||
+ph207_BG87413    147 --------------------------ATATATATCCTTTGTCTTCCACGC    170
+
+b73_BG874137     247 AAACAGAGCAACATGCATATATGTAGAAACTGGCACCACACAGAGAGAAC    296
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BG87413    171 AAACAGAGCAACATGCATATATGTAGAAACTGGCACCACACAGAGAGAAC    220
+
+b73_BG874137     297 ATGAGCAGCTGCATGCTTGCGCACTAGTTGTTTG    330
+                     ||||||||||||||||||||||||||||||||||
+ph207_BG87413    221 ATGAGCAGCTGCATGCTTGCGCACTAGTTGTTTG    254
+
+
+#---------------------------------------
+#---------------------------------------

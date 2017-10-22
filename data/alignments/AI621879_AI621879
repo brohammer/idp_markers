@@ -1,0 +1,74 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:01
+# Commandline: needle
+#    [-asequence] /tmp/saf64342g3
+#    [-bsequence] /tmp/iBAK36tg4d
+#    -gapextend 0
+#    -auto
+#    [-outfile] AI621879_AI621879
+# Align_format: srspair
+# Report_file: AI621879_AI621879
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_AI621879
+# 2: ph207_AI621879
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 484
+# Identity:     483/484 (99.8%)
+# Similarity:   483/484 (99.8%)
+# Gaps:           0/484 ( 0.0%)
+# Score: 2411.0
+# 
+#
+#=======================================
+
+b73_AI621879       1 GCAATACTTAAAGCGCCAGGATACTTATAGTAGTACCACCATTCTGAAAC     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62187      1 GCAATACTTAAAGCGCCAGGATACTTATAGTAGTACCACCATTCTGAAAC     50
+
+b73_AI621879      51 ATAGTAGCGCCAGGACGAAATATAGGATCGTCCAAAAACATACTCTTAAC    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62187     51 ATAGTAGCGCCAGGACGAAATATAGGATCGTCCAAAAACATACTCTTAAC    100
+
+b73_AI621879     101 AAAAGTTTAATTCAATAAAACCTCGGTGCCAGAACCTAGCAGACTTCACA    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62187    101 AAAAGTTTAATTCAATAAAACCTCGGTGCCAGAACCTAGCAGACTTCACA    150
+
+b73_AI621879     151 AAAGAGCATACTTAGAACACCCTGTATGGCTTCCCCATGGTGCTCTTGAC    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62187    151 AAAGAGCATACTTAGAACACCCTGTATGGCTTCCCCATGGTGCTCTTGAC    200
+
+b73_AI621879     201 GTAGAGGCATCTCACCTGCACAGCACACAGCACAGCATGTTATAACCAAG    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62187    201 GTAGAGGCATCTCACCTGCACAGCACACAGCACAGCATGTTATAACCAAG    250
+
+b73_AI621879     251 TCCTTCAGCATATGTACATTCTGAAATGTTCATTAGATGTAAACACAACA    300
+                     |||||||||.||||||||||||||||||||||||||||||||||||||||
+ph207_AI62187    251 TCCTTCAGCTTATGTACATTCTGAAATGTTCATTAGATGTAAACACAACA    300
+
+b73_AI621879     301 GAAGCGGTTATTAAGGTGAAGGCGAGCGTCACTCACATTCTGCCAGTTCT    350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62187    301 GAAGCGGTTATTAAGGTGAAGGCGAGCGTCACTCACATTCTGCCAGTTCT    350
+
+b73_AI621879     351 TCTTCAGAAGGGAAACAAGGAAGTTGACGCTCATCTGGATGTTCTGCTGG    400
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62187    351 TCTTCAGAAGGGAAACAAGGAAGTTGACGCTCATCTGGATGTTCTGCTGG    400
+
+b73_AI621879     401 ATCTGCTTCTCCTCCATCGCCAAGTTGCCAACGGCAACACCCATGCAAAG    450
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI62187    401 ATCTGCTTCTCCTCCATCGCCAAGTTGCCAACGGCAACACCCATGCAAAG    450
+
+b73_AI621879     451 AACCTTCTTGAGCTGGAACTTGACGGTTGCCTTA    484
+                     ||||||||||||||||||||||||||||||||||
+ph207_AI62187    451 AACCTTCTTGAGCTGGAACTTGACGGTTGCCTTA    484
+
+
+#---------------------------------------
+#---------------------------------------

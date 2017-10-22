@@ -1,0 +1,58 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:22
+# Commandline: needle
+#    [-asequence] /tmp/vIorbVnbaI
+#    [-bsequence] /tmp/HdWUF5BPmO
+#    -gapextend 0
+#    -auto
+#    [-outfile] BM073611_BM073611
+# Align_format: srspair
+# Report_file: BM073611_BM073611
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BM073611
+# 2: ph207_BM073611
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 271
+# Identity:     271/271 (100.0%)
+# Similarity:   271/271 (100.0%)
+# Gaps:           0/271 ( 0.0%)
+# Score: 1355.0
+# 
+#
+#=======================================
+
+b73_BM073611       1 GCAGGAGAAGAATCGGAGGCTGATCGATAATAAGCCATGGAAATCAAAGA     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07361      1 GCAGGAGAAGAATCGGAGGCTGATCGATAATAAGCCATGGAAATCAAAGA     50
+
+b73_BM073611      51 GCAAGCGCTGCATCGTCGTCTCCGGTGGCAAATCAACAGGACAAAACCAC    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07361     51 GCAAGCGCTGCATCGTCGTCTCCGGTGGCAAATCAACAGGACAAAACCAC    100
+
+b73_BM073611     101 GGGCGTGGACGTCTTAGCTGGATGGATTGGGATTAGGATTAGGATTAGGA    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07361    101 GGGCGTGGACGTCTTAGCTGGATGGATTGGGATTAGGATTAGGATTAGGA    150
+
+b73_BM073611     151 TTAGGACCAAGAAAGCCTGCAGGCGCCACGTCACGCATCATTGCCAAATG    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07361    151 TTAGGACCAAGAAAGCCTGCAGGCGCCACGTCACGCATCATTGCCAAATG    200
+
+b73_BM073611     201 CCAAACCACCCACCAATTATTGCTACTAATTTATTGTTTTTTCTTTCTTC    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07361    201 CCAAACCACCCACCAATTATTGCTACTAATTTATTGTTTTTTCTTTCTTC    250
+
+b73_BM073611     251 TCGCTGCTGTCTTGTTCTTGT    271
+                     |||||||||||||||||||||
+ph207_BM07361    251 TCGCTGCTGTCTTGTTCTTGT    271
+
+
+#---------------------------------------
+#---------------------------------------

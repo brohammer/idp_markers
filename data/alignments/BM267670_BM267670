@@ -1,0 +1,62 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:23
+# Commandline: needle
+#    [-asequence] /tmp/_KJZXDTsYW
+#    [-bsequence] /tmp/UKr5IACehW
+#    -gapextend 0
+#    -auto
+#    [-outfile] BM267670_BM267670
+# Align_format: srspair
+# Report_file: BM267670_BM267670
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BM267670
+# 2: ph207_BM267670
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 308
+# Identity:     308/308 (100.0%)
+# Similarity:   308/308 (100.0%)
+# Gaps:           0/308 ( 0.0%)
+# Score: 1540.0
+# 
+#
+#=======================================
+
+b73_BM267670       1 ACAATGTCGCCTAAACTCGGAAGCCTGGTGTCCCTCAACGTGTTGAATGT     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM26767      1 ACAATGTCGCCTAAACTCGGAAGCCTGGTGTCCCTCAACGTGTTGAATGT     50
+
+b73_BM267670      51 CACATACAACCAGATCTCAGGTCTAATTTCGACGACGGTCCCAAATTGAG    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM26767     51 CACATACAACCAGATCTCAGGTCTAATTTCGACGACGGTCCCAAATTGAG    100
+
+b73_BM267670     101 CAGTCTCTATGAGCTGAACCTGGCACAGAATTACCTATCTGGCCTGATCC    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM26767    101 CAGTCTCTATGAGCTGAACCTGGCACAGAATTACCTATCTGGCCTGATCC    150
+
+b73_BM267670     151 CTTCGGATATCGGCAAGCTGCAGGAGTTGCAGAGCCTGCTAGACCTGAGC    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM26767    151 CTTCGGATATCGGCAAGCTGCAGGAGTTGCAGAGCCTGCTAGACCTGAGC    200
+
+b73_BM267670     201 AGCAACAATCTCAGTAGGCACATCCCTGAAAGGTCAAACTAAAAAAATCT    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM26767    201 AGCAACAATCTCAGTAGGCACATCCCTGAAAGGTCAAACTAAAAAAATCT    250
+
+b73_BM267670     251 AGAACCACAAAGCAATTAGTCAAGAAAAGAATTGTCCCACTATAGAATCA    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM26767    251 AGAACCACAAAGCAATTAGTCAAGAAAAGAATTGTCCCACTATAGAATCA    300
+
+b73_BM267670     301 GACCAGGA    308
+                     ||||||||
+ph207_BM26767    301 GACCAGGA    308
+
+
+#---------------------------------------
+#---------------------------------------

@@ -1,0 +1,574 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:28:59
+# Commandline: needle
+#    [-asequence] /tmp/OGxXkVPUX3
+#    [-bsequence] /tmp/YpqCqgIjEN
+#    -gapextend 0
+#    -auto
+#    [-outfile] AI783370_AI783370
+# Align_format: srspair
+# Report_file: AI783370_AI783370
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_AI783370
+# 2: ph207_AI783370
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 6725
+# Identity:    1052/6725 (15.6%)
+# Similarity:  1052/6725 (15.6%)
+# Gaps:        5620/6725 (83.6%)
+# Score: 4868.0
+# 
+#
+#=======================================
+
+b73_AI783370       1 TGGAACACTATGGGAGGACCTGGGAAAGGTTATGGAAGGTGCGGATGAAA     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI78337      1 TGGAACACTATGGGAGGACCTGGGAAAGGTTATGGAAGGTGCGGATGAAA     50
+
+b73_AI783370      51 TTGAGATTGGGCAAGTTGACTGTGGTGTCAGCAAACCAGTATGCTCAAAG    100
+                     |||||||||||||||||||||||||||||||||||||.||||||||||||
+ph207_AI78337     51 TTGAGATTGGGCAAGTTGACTGTGGTGTCAGCAAACCTGTATGCTCAAAG    100
+
+b73_AI783370     101 GTCGATATACACTCCTACCCAACATTCAAGGTGTTTTATGAAGGCGAAGA    150
+                     |||||||||||.||||||||||||||||||||.|||||||||||||||||
+ph207_AI78337    101 GTCGATATACATTCCTACCCAACATTCAAGGTCTTTTATGAAGGCGAAGA    150
+
+b73_AI783370     151 AGTAGTAAAATATAAAGGTATACATTGTTTCACCAGTTCACCATACTTTT    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI78337    151 AGTAGTAAAATATAAAGGTATACATTGTTTCACCAGTTCACCATACTTTT    200
+
+b73_AI783370     201 TAGGCGAATGTTCCAACTGAAAACCATGTTTGTTCTTCTAGTTTTGGCCC    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI78337    201 TAGGCGAATGTTCCAACTGAAAACCATGTTTGTTCTTCTAGTTTTGGCCC    250
+
+b73_AI783370     251 ACACCCCCTTATGAGCATCTATGGATTATACTCGGAGTGGGAGTGGGGTC    300
+                     .||||||||||||||||||||||||||.|||||||||||||.|||||.||
+ph207_AI78337    251 CCACCCCCTTATGAGCATCTATGGATTCTACTCGGAGTGGGTGTGGGATC    300
+
+b73_AI783370     301 TCAAAGTGTAAA------GTAAATTTAATTTAAATTCGAATTTGATATTT    344
+                     ||||||||||||      |||||||||||||||||||||.|.||||||||
+ph207_AI78337    301 TCAAAGTGTAAAATGTTTGTAAATTTAATTTAAATTCGAGTCTGATATTT    350
+
+b73_AI783370     345 AAACCATTTGTATATCAGACAAGTGCTCACTTTTGTGTACAATTTACTTC    394
+                     ||||||||.|||||||||.|||.|||||||||.||||||.||||||||||
+ph207_AI78337    351 AAACCATTCGTATATCAGGCAAATGCTCACTTCTGTGTAGAATTTACTTC    400
+
+b73_AI783370     395 TAGATCAGTAGGTTGCCTCTTCTTCGAAGATTTTGCTAAATCCATTCACT    444
+                     ||||||||||||||||||||||||.|||||||||.||||||.||||||| 
+ph207_AI78337    401 TAGATCAGTAGGTTGCCTCTTCTTTGAAGATTTTACTAAATTCATTCAC-    449
+
+b73_AI783370     445 AATTGTTGGAATGTGAACCCATAACCCTAACAAGGGTTGGGTGGTGTATT    494
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370     495 AATAGACTTGAGTACTGGGCCAGACCCATTACAGAGGGGCGAGACAGTAA    544
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370     545 TTACATAGGGAAAAACCCCAAACCCTAAACGGCCAAACGGGTATTCTAAC    594
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370     595 ACCCCCCCGTAGTCACAACTCTATCCTGTACAGATGTTGAGACTGGAGCG    644
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370     645 AAAGTCTAAAAATACACTCGACGGTAACCCCTTGGTGAAGATGTCAGCGA    694
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370     695 ATTGCAGTGTGGTGGGGACGCTGAGAACCCGAACGTCACCGGCAGCGACA    744
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370     745 CGCTCGCGGACGAAGTGCAGGTCAATCTCCACGTGCTTCGTGCGCTGATG    794
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370     795 CTGCACGGGATTGGTGGAGAGGTAGACCGCGCTGACGTTGTCGCAGTAGA    844
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370     845 CGAGGGTGGCGCGCTGAAGGGGACTGTGGAGCTCGTGGAGGAGTTGTCGT    894
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370     895 AGCCAGGAGGCCTCTGCCACGCCGTTGGCCACGGCGCGGTACTCGGCCTC    944
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370     945 AGCGTTGGAGCGAGAGACGACGGGCTGCCGTTTGGCGGCCCAAGAGACGA    994
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370     995 GGTTGGCGCCCAGGAACACGACGTAACCGGAGGTGGACCGGCGTGTGTCG   1044
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    1045 GGACAGCCAGCCCAGTCAGCATCGGTGTAGACCACAAGCTCCGACGTCGG   1094
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    1095 GGATGGTCGGAGTAGGAGGCCGTAGTCGAGGGAGCCGCGGAGGTAGCGCA   1144
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    1145 GAATCCGCTTGAGCGCGGTGAGATGGGGCTCCCGCGGAGTGTGCATATGC   1194
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    1195 AGGCACACTTGCTGGACGGCGTAAGCGATGTCGGGCCTGGAGAAGGTGAG   1244
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    1245 GTACTGGAGCGCGCCGGTCAGGCTCCGGTAGGACGTCGCGTCGGCGACCG   1294
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    1295 GAGGCCCGTCGTCCTCAGAGCTTCGCCTGGGTGTCGACAGGCGTGGAGCA   1344
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    1345 AGGCTTGCAGTCAGACATGCCAGCCCGCTTCAGGATGTCGATGGCGTACT   1394
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    1395 GGCGCTGGTGGAGGAAGAGACCCTGAGGCCGGCGCTCGGCGGTGATGCCG   1444
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    1445 AGGAAGTGGTGTAGGGGCCCTAGGTCCTTCATGGCGAATTCCCGCTGAAG   1494
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    1495 GGCGACGATCGTGCGGTGAAGAAGGTCGGCAGTGGATGCCGTGAGCACAA   1544
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    1545 TGTCGTCGACGTAGAGCAGGAGGTAGACGGTGTCGTTGCCGCGCCGGTAG   1594
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    1595 ATGAGCAGGGACGTGTCCGACTTGGCCTCGACGAAGCCGATGGAGGCCAG   1644
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    1645 GTAGGAGGCGAAGCGACTGTACCATGCCCGTGGCGCTTGCTTGAGGCCGT   1694
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    1695 ACAGGGACCGGTTCAGCCGGCAGACCAGATCCGGACGGTCAGCGTCGACG   1744
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    1745 AAGCCGGTGGGCTGGTTGCAGTAGACAGTCTCCGTCAGAGTGCCATGGAG   1794
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    1795 GAAGGCATTCTTGACGTCGAGCTGGTGGATCGCCCAGTCGCGGGAGAGGG   1844
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    1845 CGAGGGAGAGGACGGCGCGAACAGTGGCGAACTTGACGACGGGGCTGAAG   1894
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    1895 GTCTCGTCGTAATCCACTTCGGGGCGCTGGGTGAAGCCCCGAAGGACCCA   1944
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    1945 ACGAGCCTTGTAGCGGTTGAGGGAGCCATCCGAGGTCAGCTTGTGGCGAA   1994
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    1995 ATAGCCACTTGCCGGTGACCACGTTGGTGCCTGGTGGACGCTGCACCAGG   2044
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    2045 TCCCAGGTGTGGTTGGCCAAGAGGGCCGCGTACTCCTCCATAGCACGACG   2094
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    2095 CCAATGTGGGTCGGCGAGGGCAGCGCGAACGGAGGAGGGCACAGGGGATG   2144
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    2145 CGTCCGGAGGAGTGCAGGTCGTATCCGCTGCCAGGATCAGCCGGTCGACG   2194
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    2195 GGGCGAAGAACGCCAGCGGCGCGCTGAGTCACCATCGGGTGGACGTGCCC   2244
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    2245 GGGGTCGCGGTGGATGGCGACCGGGTGGTACACTGACGACTCGGAGCGGG   2294
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    2295 CCGCCGGAACGTCGGGAGCGGCGGGTATGGCCGGCTCGCGGCGGTGAAAG   2344
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    2345 ACGACGGCGGGGTCGGCAAAGCGGGCCGTGCTCGTCGACGGGCCCGAGTC   2394
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    2395 GGCAGGCGCCGAGGTGGCGGCATGGCTGCGACGGTGGTAGACGAGCGCGG   2444
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    2445 GGTCGGCGAAGCGAGTCGGGGTCGACGAGGCCGCGCGTAGGGCTGGATAT   2494
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    2495 CGAGCCAGCTCGGCTCGGCTCGTTCGAGCTCGAGCTGGCTCGGCTCGGCT   2544
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    2545 CGTTAAGGTAGCGAGCCACAGAGTCAGCTCGGCTCGGCTCGTTTACGAGC   2594
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    2595 TCGAGCTGGCTCGTTTAGCTCGCGAGCCAGAGCAGAAAAAAATAATATAT   2644
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    2645 GTATAATAATCAATTTCTAGTTAATTTCAAACTAATTTAACAACAGAAAA   2694
+                                                                       
+ph207_AI78337    449 --------------------------------------------------    449
+
+b73_AI783370    2695 TAGTAATTATACTCATAGTTTCATAGACCACATCAATATAACACCAAATT   2744
+                                                      |||||            
+ph207_AI78337    450 ---------------------------------CAATA------------    454
+
+b73_AI783370    2745 AACACAACTCATCACTCATCAATTCACTATTCATACACATGTTCAGCAGT   2794
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    2795 TTAACCCACACTTATATTCGCATAGACCAATTTCATACATAGACATAATT   2844
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    2845 CATCAATCATTAGTTTAACTTATAGGTTATAGACACCACACATACATATA   2894
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    2895 ACATATTCATCAATTGTTACATATATGATATGTATATAGATTTGTTTTGC   2944
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    2945 TGAAATGTGATAGCTCGTTTAGCTCGCGAGCTGGCTCATTAACAAACCGA   2994
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    2995 GCTGGCTCGTTAACGAACCGAGCTAGGATGTCAGCTCAGCTCGTGAAAAA   3044
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    3045 ATTCAAACGAGCCGATCCGAGCCGAGCCGAGCTGGCCACGAACCGAGCGA   3094
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    3095 GCCGACGAGCCGCGAGTATTTTGTCCAGCCCTAGCCGCGCGTGGCGCAGG   3144
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    3145 CGTGATCGACGGGGCCGCGCGTGGCGCAGGCGGGGTCGTCGGGGCCGCGC   3194
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    3195 AGGGCGCAGGCGTGATCGACGGGGCCGCGCGTGGCGCGGGAGTGGGCGCA   3244
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    3245 AGCGGTGGCGTCGTGGTCGCACGAGGTACGGGTAACGGCGCAAGGCGGGG   3294
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    3295 CGCCGGGGGTGGGAGGTGAACCGGATCAGACTCGAGGAGTGAGTCTAGAT   3344
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    3345 CGGTGGGTGGGGTGGAGCCTGCAAGGGGAAACACATCTTCGTCGAAGACG   3394
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    3395 ACGTGACGAGAGATGATGATGCGGTGGGAGGTGAGGTCCAGGCACCGATA   3444
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    3445 CCCCTTGTGGTCAGGGGAGTAGCCGAGGAAGAGGCATCGAGTGGAGCGAG   3494
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    3495 GAGAAAGCTTGTTTGGGGCGGTAGCGGAAGTGTTAGGGTAGCAGGCACAG   3544
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    3545 CCGAACACGCGCAGGTGGTTGTAGGAAGGGGTTGTGTCGTACAGGGCAAA   3594
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    3595 GTGAGGTGTAGGGTGGCTCACCGCCTTCGAGGGAAGACGGTTGAGGAGAT   3644
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    3645 GCGTGGCAGTATGAAGGGCCTCTGCCCAGTAGGTGGCGGGGAGAGACGCC   3694
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    3695 TGAAAGAGAAGGCAGCGGATCATGTTGGTGGTGGTGCGAATCATGCGCTC   3744
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    3745 GGCCCTGCCGTTCTGAGCAGAGGTGTAGGGACACGAGAGACGCAACTGGA   3794
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    3795 CGCCGTGAGTGAGGAAGAAAGAACGGGAGGCGTTGTTGTCGAACTCGCGG   3844
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    3845 CCATTGTCGCACTGCAGGGCACGGACCGGGCGCCGAAACTGGGTGGATAC   3894
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    3895 CCAGGCGAAGAAGTGAGTGAGGGTGGTAAACGTGTCGGACTTCAGCCGAA   3944
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    3945 GGGGGAAAGTCCAAAGGAAATGGGAGTAGTCGTCCAGAATGACCAGGTAG   3994
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    3995 TATTTGTAGCCGGAGAGGCTAAGGACAGGAGACGTCCAGAGATCACAGTG   4044
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    4045 GACAAGATCAAAGGCCTGAACAGCCCTAGACGTGGAAGTGGAAAAAGGAA   4094
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    4095 GACGAGAGTGACGACCGAGCTGACAAGCATGATAGAGGCGCTCAGAAGAG   4144
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    4145 CCCCGAGTATAGGATATGTCTGAGTGGTCGGCAAGCTGGGACATGACGTC   4194
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    4195 AGGTCCAGGGTGCCCGAGGCGACGGTGCCAAATGGCGGAGGAGGTGGTGG   4244
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    4245 TAGTAGCAAGAGCATGTGATGTGGTGGTAGTAGTAAGTACAGGAGATGAG   4294
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    4295 GCTACTCTGGTGTGGGGAGTGGAGGGCAAGTGAAGAGAATAGAAGGGGCC   4344
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    4345 GGAGCTGTCACAGCGAGCGAGCACAGCATGTGTGGGAAGGTGGCGTATGG   4394
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    4395 TGAGGCCCCAGGGGTCAAACTCCATAGAGCACTGGTTGTCACTAGTGAAG   4444
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    4445 CGATGAACCGAGAGGAGGGGATGAGTCAGTCCGGGAGCAACAAGGACGTC   4494
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    4495 GTTAAGGTAGAATGGTCCTGGAAGAACCGATGTACCTACTGAGGTGACCG   4544
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    4545 GGAGGGTGGAACCGTTGTAGGCGACGATGGAGGTAGGATGTGAGGGGTGG   4594
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    4595 CGTGGATGGGAGTGGAGTAACGAATTAGTGGTGGGGGTAGTGTGGAAGGA   4644
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    4645 GGCCTCGGAGTCAACTACCCAATCGGTGGTGGTTCGGGGAGGTGAAAGTG   4694
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    4695 GCGAAGGTACGGTGTGAGCGGAGAGGGCCAAAGAAGGTGCCCCGACAGAG   4744
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    4745 GCACTAGGAAGGGAGGGAGATGGCACGGGTTCAACCGCTAGGGAGGCGAT   4794
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    4795 CGCAGCACATGGGAAGACAAGCGGTCCAGGCACGTGACGGCCCGCCTGAG   4844
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    4845 GGTGGACCTCGACGCAGTCCTGAAGAATAGGGTTCCAGACTGGATCGAAG   4894
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    4895 GACACGAACATGCCCCGGATGAGTTGGCCGTCGTGGAGGACACACACAGT   4944
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    4945 CACGAGAGCGGCGGGCGAGGTAAAGCTCATGATGAGCGGTGCAGGAGGGT   4994
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    4995 CGAAGCACTGCTGGGGCCAGGGCGCGGTCAGCCGACGCAGGGAGGCGCGG   5044
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    5045 ACTGGACAGCCGGGCGCGGAACAGCCGGGGCGGCTGGGTGCTCGGCGTCG   5094
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    5095 GGACAGTAGGGGCGCTGCACAGCGCAGGACAGCAGGGGCGCGGGTCCTCC   5144
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    5145 GGGTGTCGAGCTCGGTCCTCGGCGCGGTGTCGGTGTCGAACGCGCAGGGG   5194
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    5195 CAGGGCGCGGGTGGGGCTTCGGTCGGTCGGCGCGGCGGCTCTGCTGGCAC   5244
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    5245 CCGGGCGCGACGGTCGTCGGGGACACGCGGGCGTCGCGGCGCAGTAGGGC   5294
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    5295 CCAGGCGCTCGGGTCCGGCCTGCTCGACGTCGCCTTCCTGGCGCGCGTGG   5344
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    5345 GCACGGGCAGCGCGCGGAAGAGCGCTGGTGCGGCGGCAGCGCAGGGCGCT   5394
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    5395 GGTCGCAGAGTCGGGCGAGAGGAGCGGCCGTCGGGTCCTTGGCGCGGGTC   5444
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    5445 GCAGGGGCGCGGCTCCGGGCGCGACGCGACAGCGGCAGCCCTGGCGGCGC   5494
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    5495 TCGGCGGTGGGGAAGGCGGACCGTCGCGGCGGCGCGAGCTGAGCGGCGTC   5544
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    5545 GGGAGCGGCAGCCCTGGCGGCGGCGACTCGGGTGGAGCAGGCTGCGGGGG   5594
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    5595 CGCGGCTCCGGGCGCGACGCGATAGCGGCAGCCCTGGCGGCGCTCGGCGG   5644
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    5645 TGGGGAAGGAGGGAGAAGAAGAGCCGGCGGCGGAAGGGAGAGGGGCCGGC   5694
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    5695 GGCGGGAGAGGTGCCGACGGCTGTAGGCCGGCGGCTGGGAAAGCGGCTGG   5744
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    5745 TCGGCTGGGGGCTGGCGGCTGAAAAAAAAGACCCTAAACCTAGCCCTCTG   5794
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    5795 ATACCATGTTGGAATGTGAACCCATAACCCTAACAAGGGTTGGGTGGTGT   5844
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    5845 ATTAATAGACTTGAGTACTGGGCCATGCCCATTACAGAGGGGCGAGACAG   5894
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    5895 TAATTACATAGGGAAAAACCCCAAACCCTAAACGGGTATTCTAACACTAA   5944
+                                                                       
+ph207_AI78337    454 --------------------------------------------------    454
+
+b73_AI783370    5945 TCATGGTGCAGGTACGGTTAGGTTTAATATCAGAGGTAATATCAATGCGT   5994
+                       |||||||||||||||||||||||||||||||||.|||||.||||||||
+ph207_AI78337    455 --ATGGTGCAGGTACGGTTAGGTTTAATATCAGAGATAATAACAATGCGT    502
+
+b73_AI783370    5995 AATTGAATGATGAGAAGAACATGTCATATTTAATAAATCAGTAAATTACC   6044
+                     ||.|||||||||||||.|||||.||||||||||.|||||||||||||||.
+ph207_AI78337    503 AACTGAATGATGAGAAAAACATATCATATTTAACAAATCAGTAAATTACG    552
+
+b73_AI783370    6045 ACTTATTGGCCATGGTTATTACTATCAAAATCAATGTTACTTTTGTTGTT   6094
+                     .|||||||.||||||||||||||||||||||.|||||.||||||||||.|
+ph207_AI78337    553 GCTTATTGACCATGGTTATTACTATCAAAATGAATGTCACTTTTGTTGCT    602
+
+b73_AI783370    6095 GAACTCTTTATAGCCATTGTATGCTATGGTACTGTATTGGTGGAGTTGCT   6144
+                     |||||||||.|||||||||.||||||||||||||||||||||||||||||
+ph207_AI78337    603 GAACTCTTTGTAGCCATTGAATGCTATGGTACTGTATTGGTGGAGTTGCT    652
+
+b73_AI783370    6145 TACAAGCTGCCTATGTAG-------CTACTTTCTAATGAATTCATATACT   6187
+                     |||||||||||.||||||       ||||||||||||||||.||||||||
+ph207_AI78337    653 TACAAGCTGCCGATGTAGCTATTTTCTACTTTCTAATGAATCCATATACT    702
+
+b73_AI783370    6188 TTGCAGTTT-GATCGTGCCTCCAGAGCTGATTATATGCAATAATAGTCAT   6236
+                     |.||.|||| ||||||||..|||||||||||||||||||.||||||||||
+ph207_AI78337    703 TCGCGGTTTGGATCGTGCTCCCAGAGCTGATTATATGCAGTAATAGTCAT    752
+
+b73_AI783370    6237 TTTGCACT-GACATTCATCACATACATTCATGCATCTGCTAGATTATATT   6285
+                     ||||||.| .||||||||||                 ||.|         
+ph207_AI78337    753 TTTGCAGTAAACATTCATCA-----------------GCCA---------    776
+
+b73_AI783370    6286 TTGCACTGACACTCAAATTTACCACTTACATTCATGCATCTGCTATATAG   6335
+                             |||||||||||.|||||||||||||||||||||||    |||
+ph207_AI78337    777 --------ACACTCAAATTCACCACTTACATTCATGCATCTGC----TAG    814
+
+b73_AI783370    6336 CTTACACTTAAC-----GTACATGCCACAAATTTTTAGCCA-TTTTTGTT   6379
+                     ||||||||||||     |||||||..|||..|||||||||| ||||||||
+ph207_AI78337    815 CTTACACTTAACATTAAGTACATGTTACAGTTTTTTAGCCATTTTTTGTT    864
+
+b73_AI783370    6380 TTAGAACAATTGTATGC-TTTGTAACTGCCAATTGTCTATATACTACAT-   6427
+                     |||||||||||||.||| ||||||||||||||.|||.|||||     || 
+ph207_AI78337    865 TTAGAACAATTGTGTGCTTTTGTAACTGCCAACTGTGTATAT-----ATC    909
+
+b73_AI783370    6428 ATTCTTTGTTTCTCCCTACTTTTGTTTCCACTTGGTCTTTGTATCTTTAT   6477
+                     ||||                                      |||    .
+ph207_AI78337    910 ATTC--------------------------------------ATC----A    917
+
+b73_AI783370    6478 GCCTGTTACAATGCTTTTGCATGTGGACACATTCCTTTTTCGTTTGGTTT   6527
+                     ||      ||||        ||||||||||||||||||||||||||||||
+ph207_AI78337    918 GC------CAAT--------ATGTGGACACATTCCTTTTTCGTTTGGTTT    953
+
+b73_AI783370    6528 TCTGCTTCATTTGACAGTATTCTCTACTGACACCAACGTGAAACTGGATG   6577
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI78337    954 TCTGCTTCATTTGACAGTATTCTCTACTGACACCAACGTGAAACTGGATG   1003
+
+b73_AI783370    6578 CACCCATGCTACTGCAGGACCTAGGGATGTGGAATCGCTGAAGAACTTCG   6627
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI78337   1004 CACCCATGCTACTGCAGGACCTAGGGATGTGGAATCGCTGAAGAACTTCG   1053
+
+b73_AI783370    6628 TGTTGAATGAAGCTGAGAAAGCAGGCGAGGCAAAGCTTGAAGCTGATTGA   6677
+                     ||.||||||||||||||||||||||.||||||||||||.|||||||||||
+ph207_AI78337   1054 TGCTGAATGAAGCTGAGAAAGCAGGTGAGGCAAAGCTTCAAGCTGATTGA   1103
+
+b73_AI783370    6678 GGCAGGGGAGTTTCAGCAAGCATGT   6702
+                     |||||||||||||||||||||||||
+ph207_AI78337   1104 GGCAGGGGAGTTTCAGCAAGCATGT   1128
+
+
+#---------------------------------------
+#---------------------------------------

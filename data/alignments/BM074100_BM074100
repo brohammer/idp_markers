@@ -1,0 +1,38 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:02
+# Commandline: needle
+#    [-asequence] /tmp/9fCkJxsFo2
+#    [-bsequence] /tmp/ooUZ0_DoR0
+#    -gapextend 0
+#    -auto
+#    [-outfile] BM074100_BM074100
+# Align_format: srspair
+# Report_file: BM074100_BM074100
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BM074100
+# 2: ph207_BM074100
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 20
+# Identity:      20/20 (100.0%)
+# Similarity:    20/20 (100.0%)
+# Gaps:           0/20 ( 0.0%)
+# Score: 100.0
+# 
+#
+#=======================================
+
+b73_BM074100       1 ATGCATGCTTTGTATTTGGG     20
+                     ||||||||||||||||||||
+ph207_BM07410      1 ATGCATGCTTTGTATTTGGG     20
+
+
+#---------------------------------------
+#---------------------------------------

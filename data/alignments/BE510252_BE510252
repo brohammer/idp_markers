@@ -1,0 +1,58 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:09
+# Commandline: needle
+#    [-asequence] /tmp/iRTd4Ryc8j
+#    [-bsequence] /tmp/vyfbPiYsYV
+#    -gapextend 0
+#    -auto
+#    [-outfile] BE510252_BE510252
+# Align_format: srspair
+# Report_file: BE510252_BE510252
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BE510252
+# 2: ph207_BE510252
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 299
+# Identity:     282/299 (94.3%)
+# Similarity:   282/299 (94.3%)
+# Gaps:           9/299 ( 3.0%)
+# Score: 1358.0
+# 
+#
+#=======================================
+
+b73_BE510252       1 CCGGCAGTGAATATGATGCTGACGACGACGACAACGAGACCGAAAGCATG     50
+                     |||||||||||||||||||||..|||||||   |||||||.|||||||||
+ph207_BE51025      1 CCGGCAGTGAATATGATGCTGCTGACGACG---ACGAGACTGAAAGCATG     47
+
+b73_BE510252      51 GCCAGCGTTTCTGAAGACGCTAGCTAATGTTTCTGATCATGGAGGTTTAG    100
+                     ||||||||||||||||||||||||||.|||||||||||||||.|||||||
+ph207_BE51025     48 GCCAGCGTTTCTGAAGACGCTAGCTAGTGTTTCTGATCATGGCGGTTTAG     97
+
+b73_BE510252     101 CCAATTGGGGCGGGCGAAGTGTGGTTACCTTGCCTCACATAATGACCTTG    150
+                     |||||||||.||||||||||||||||||||||||||||||||||||||||
+ph207_BE51025     98 CCAATTGGGCCGGGCGAAGTGTGGTTACCTTGCCTCACATAATGACCTTG    147
+
+b73_BE510252     151 TTGGCTAGAAATTTGCCTTGGATCGAGCCACCTCATCATAACATGCTTCT    200
+                     ||||||||||||||||||||||.|||||||||||||||||||||||||||
+ph207_BE51025    148 TTGGCTAGAAATTTGCCTTGGACCGAGCCACCTCATCATAACATGCTTCT    197
+
+b73_BE510252     201 GTTGTCAGCTGTAATTAAGCTTCTTCTTCTTCTTTTTTTGGTGTGGCGGT    250
+                     |||||||||||||||||||      ||||||.||||||||||||||||||
+ph207_BE51025    198 GTTGTCAGCTGTAATTAAG------CTTCTTTTTTTTTTGGTGTGGCGGT    241
+
+b73_BE510252     251 TTACCTTGAAGGACTTGATGTATGCCAGTACAACAAATTCAGCCAAATG    299
+                     |||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BE51025    242 TTACCTTGAAGGACTTGATGTATGCCAGTACAACAAATTCAGCCAAATG    290
+
+
+#---------------------------------------
+#---------------------------------------

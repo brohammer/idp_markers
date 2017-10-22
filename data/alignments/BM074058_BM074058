@@ -1,0 +1,58 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:26
+# Commandline: needle
+#    [-asequence] /tmp/dwEJA0rM0A
+#    [-bsequence] /tmp/xnCkSt9P36
+#    -gapextend 0
+#    -auto
+#    [-outfile] BM074058_BM074058
+# Align_format: srspair
+# Report_file: BM074058_BM074058
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BM074058
+# 2: ph207_BM074058
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 281
+# Identity:     267/281 (95.0%)
+# Similarity:   267/281 (95.0%)
+# Gaps:           6/281 ( 2.1%)
+# Score: 1293.0
+# 
+#
+#=======================================
+
+b73_BM074058       1 GATTCAGTTGTGATGGCACGAATAGCAACAGGAGGCCGGTTCGGTCCACT     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07405      1 GATTCAGTTGTGATGGCACGAATAGCAACAGGAGGCCGGTTCGGTCCACT     50
+
+b73_BM074058      51 GCACATGTAATGTATGTACTGCATGCAGCGGTTCTTCGATCAGACGGCCA    100
+                     ||||||||||||||||||||||||||||.|||||||||||||||||||||
+ph207_BM07405     51 GCACATGTAATGTATGTACTGCATGCAGGGGTTCTTCGATCAGACGGCCA    100
+
+b73_BM074058     101 TTTTTTGGCCAACAGGGTGTTGAGCAAGCCACAGCACTGGGTTTCAAAGT    150
+                     ||||||.||||||||.||||||||.||||||||||||.||||||||||||
+ph207_BM07405    101 TTTTTTCGCCAACAGTGTGTTGAGGAAGCCACAGCACCGGGTTTCAAAGT    150
+
+b73_BM074058     151 GACGGGAGCAGGCTGGCTGCGACCAACGGGACAGCAGCGCACACGATGAC    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07405    151 GACGGGAGCAGGCTGGCTGCGACCAACGGGACAGCAGCGCACACGATGAC    200
+
+b73_BM074058     201 CCAGGGCCAGATGTTGTTGTTTGCTGCCTGCTTTGAGGTAGGCACCGGCG    250
+                     |||||||||||||||||||||||||||||||||||.|||||||||     
+ph207_BM07405    201 CCAGGGCCAGATGTTGTTGTTTGCTGCCTGCTTTGTGGTAGGCAC-----    245
+
+b73_BM074058     251 GCGGCGGCGGCGGTCTGAACCTCTCGAGCTC    281
+                      |.|.||||||||||||||||||||||||||
+ph207_BM07405    246 -CAGTGGCGGCGGTCTGAACCTCTCGAGCTC    275
+
+
+#---------------------------------------
+#---------------------------------------

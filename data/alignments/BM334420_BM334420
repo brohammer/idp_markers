@@ -1,0 +1,62 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:14
+# Commandline: needle
+#    [-asequence] /tmp/alY1Uv9G0s
+#    [-bsequence] /tmp/r_BZe08OS8
+#    -gapextend 0
+#    -auto
+#    [-outfile] BM334420_BM334420
+# Align_format: srspair
+# Report_file: BM334420_BM334420
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BM334420
+# 2: ph207_BM334420
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 304
+# Identity:     302/304 (99.3%)
+# Similarity:   302/304 (99.3%)
+# Gaps:           2/304 ( 0.7%)
+# Score: 1500.0
+# 
+#
+#=======================================
+
+b73_BM334420       1 GCTTTGTTTAATGGAAAGCGACATAGAGGAGTTATAAGTCGTTGCTGCTG     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM33442      1 GCTTTGTTTAATGGAAAGCGACATAGAGGAGTTATAAGTCGTTGCTGCTG     50
+
+b73_BM334420      51 GTTCGTGTTCACGTTTTCTCTGAAATTTAATTTCACCCGGAAAAATTAAA    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM33442     51 GTTCGTGTTCACGTTTTCTCTGAAATTTAATTTCACCCGGAAAAATTAAA    100
+
+b73_BM334420     101 CAAATATGCCGTGGGTATCCAAAGTACTGCAAAAGCAATAATGTGAGAGA    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM33442    101 CAAATATGCCGTGGGTATCCAAAGTACTGCAAAAGCAATAATGTGAGAGA    150
+
+b73_BM334420     151 AATTCTCTAATATACCTAGATGTGTGCTAGAGTAGACACATCGTAC--TA    198
+                     ||||||||||||||||||||||||||||||||||||||||||||||  ||
+ph207_BM33442    151 AATTCTCTAATATACCTAGATGTGTGCTAGAGTAGACACATCGTACTATA    200
+
+b73_BM334420     199 GTTTGAGAGTCTAAAAAACTAGAGAGGATAAGAGGTACTAAAATCCTTTT    248
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM33442    201 GTTTGAGAGTCTAAAAAACTAGAGAGGATAAGAGGTACTAAAATCCTTTT    250
+
+b73_BM334420     249 TTTATTTAAAATTTAATAAGAATTGAATTTTAACCCATCCAATCTATTCG    298
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM33442    251 TTTATTTAAAATTTAATAAGAATTGAATTTTAACCCATCCAATCTATTCG    300
+
+b73_BM334420     299 GTTT    302
+                     ||||
+ph207_BM33442    301 GTTT    304
+
+
+#---------------------------------------
+#---------------------------------------

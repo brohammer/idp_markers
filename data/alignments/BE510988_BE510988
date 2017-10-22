@@ -1,0 +1,58 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:12
+# Commandline: needle
+#    [-asequence] /tmp/lf83EqwFNh
+#    [-bsequence] /tmp/BzYmqONCOo
+#    -gapextend 0
+#    -auto
+#    [-outfile] BE510988_BE510988
+# Align_format: srspair
+# Report_file: BE510988_BE510988
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BE510988
+# 2: ph207_BE510988
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 270
+# Identity:     270/270 (100.0%)
+# Similarity:   270/270 (100.0%)
+# Gaps:           0/270 ( 0.0%)
+# Score: 1350.0
+# 
+#
+#=======================================
+
+b73_BE510988       1 TCTAAACTGCAATATAAATATGCCCCTCTTGTTTGCCTGTTGGCATGTGT     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BE51098      1 TCTAAACTGCAATATAAATATGCCCCTCTTGTTTGCCTGTTGGCATGTGT     50
+
+b73_BE510988      51 TCCAAATGAAGTCGTCCAGACAACCTACGAGGCGTTAACAGCAACAGACA    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BE51098     51 TCCAAATGAAGTCGTCCAGACAACCTACGAGGCGTTAACAGCAACAGACA    100
+
+b73_BE510988     101 AGCATACCAGATGCATGACTTGGCGCACAATGACATTTAACCACAAAGAA    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BE51098    101 AGCATACCAGATGCATGACTTGGCGCACAATGACATTTAACCACAAAGAA    150
+
+b73_BE510988     151 CATCTATTCTGATGTTACATATAAACTGGGGGAAACGATGTTTTAACTGA    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BE51098    151 CATCTATTCTGATGTTACATATAAACTGGGGGAAACGATGTTTTAACTGA    200
+
+b73_BE510988     201 ATGTAATAATCTTTGTTAAAGTTCAGGAAGTCCAACACATTTTGTTACAC    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BE51098    201 ATGTAATAATCTTTGTTAAAGTTCAGGAAGTCCAACACATTTTGTTACAC    250
+
+b73_BE510988     251 GGAAATCATGCTCATATTGA    270
+                     ||||||||||||||||||||
+ph207_BE51098    251 GGAAATCATGCTCATATTGA    270
+
+
+#---------------------------------------
+#---------------------------------------

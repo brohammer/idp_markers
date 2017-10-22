@@ -1,0 +1,58 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:13
+# Commandline: needle
+#    [-asequence] /tmp/wrDjIy9n1o
+#    [-bsequence] /tmp/ZhvGRdUgDN
+#    -gapextend 0
+#    -auto
+#    [-outfile] AI396473_AI396473
+# Align_format: srspair
+# Report_file: AI396473_AI396473
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_AI396473
+# 2: ph207_AI396473
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 275
+# Identity:     275/275 (100.0%)
+# Similarity:   275/275 (100.0%)
+# Gaps:           0/275 ( 0.0%)
+# Score: 1375.0
+# 
+#
+#=======================================
+
+b73_AI396473       1 CAAATGTGTTGCAATTAAACAGGTAACACGATACACAATGGATATCTGAA     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI39647      1 CAAATGTGTTGCAATTAAACAGGTAACACGATACACAATGGATATCTGAA     50
+
+b73_AI396473      51 GTGCAGCATTTATCTAACAATATGTGTGGCACTTCAACTGAATAATAAGG    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI39647     51 GTGCAGCATTTATCTAACAATATGTGTGGCACTTCAACTGAATAATAAGG    100
+
+b73_AI396473     101 AATGATGCAAGTATAGAAGGTAACTGCATCATTTATGCTCTACCACCCTT    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI39647    101 AATGATGCAAGTATAGAAGGTAACTGCATCATTTATGCTCTACCACCCTT    150
+
+b73_AI396473     151 GCAGAAACGGCTACACAATACGCCAGAAATGCATACAACAGGTCATAATA    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI39647    151 GCAGAAACGGCTACACAATACGCCAGAAATGCATACAACAGGTCATAATA    200
+
+b73_AI396473     201 TATTTAGCTTTCATACAACCAAAGGCAGCAGGGAGTCTGGCAGTGAATTT    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI39647    201 TATTTAGCTTTCATACAACCAAAGGCAGCAGGGAGTCTGGCAGTGAATTT    250
+
+b73_AI396473     251 TCTCACCAATCCCAGATCGTAGCTC    275
+                     |||||||||||||||||||||||||
+ph207_AI39647    251 TCTCACCAATCCCAGATCGTAGCTC    275
+
+
+#---------------------------------------
+#---------------------------------------

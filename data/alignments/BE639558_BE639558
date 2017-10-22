@@ -1,0 +1,58 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:16
+# Commandline: needle
+#    [-asequence] /tmp/Cn1tXxBOKU
+#    [-bsequence] /tmp/RHCyQIJY28
+#    -gapextend 0
+#    -auto
+#    [-outfile] BE639558_BE639558
+# Align_format: srspair
+# Report_file: BE639558_BE639558
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BE639558
+# 2: ph207_BE639558
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 288
+# Identity:     280/288 (97.2%)
+# Similarity:   280/288 (97.2%)
+# Gaps:           3/288 ( 1.0%)
+# Score: 1370.0
+# 
+#
+#=======================================
+
+b73_BE639558       1 AGGTCATCAGCACCAAGAGGCAGCCGTTGGGCCCCAAGCCTGTCTTCATG     50
+                     ||||||||||||||||||||||||||||||||||||||||||.|||||||
+ph207_BE63955      1 AGGTCATCAGCACCAAGAGGCAGCCGTTGGGCCCCAAGCCTGGCTTCATG     50
+
+b73_BE639558      51 GTTGAGGGGACTACCATCGAGACCGTCACTCCCATCCCGTACGATGTGGT    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BE63955     51 GTTGAGGGGACTACCATCGAGACCGTCACTCCCATCCCGTACGATGTGGT    100
+
+b73_BE639558     101 CAATGATCTTAAGGGAGGATACTAGGTTGTTTGTTTGGTCTTTCTACCTG    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BE63955    101 CAATGATCTTAAGGGAGGATACTAGGTTGTTTGTTTGGTCTTTCTACCTG    150
+
+b73_BE639558     151 TTCTACATCTGTGTTACTCTAGTGCGTACAATTTTGCTCACACTGAGCAG    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||  
+ph207_BE63955    151 TTCTACATCTGTGTTACTCTAGTGCGTACAATTTTGCTCACACTGAGC--    198
+
+b73_BE639558     201 TAGTATGAACCTATTGTGTGTTCATGTTGAAATTTTTCCCGTTCTGTGCA    250
+                      |||||||||||||||||.|||||||||||||..||||||||||||||||
+ph207_BE63955    199 -AGTATGAACCTATTGTGCGTTCATGTTGAAAGATTTCCCGTTCTGTGCA    247
+
+b73_BE639558     251 AACCTGAGTTTAGAAGAACGCTATGCCTTGATCTTTGC    288
+                     ||||||||||||||||||.|||||||||||||||||||
+ph207_BE63955    248 AACCTGAGTTTAGAAGAATGCTATGCCTTGATCTTTGC    285
+
+
+#---------------------------------------
+#---------------------------------------

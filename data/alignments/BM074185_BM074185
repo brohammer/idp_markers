@@ -1,0 +1,58 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:32
+# Commandline: needle
+#    [-asequence] /tmp/GDKu5vkQMt
+#    [-bsequence] /tmp/2xGeW5xkDo
+#    -gapextend 0
+#    -auto
+#    [-outfile] BM074185_BM074185
+# Align_format: srspair
+# Report_file: BM074185_BM074185
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BM074185
+# 2: ph207_BM074185
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 274
+# Identity:     269/274 (98.2%)
+# Similarity:   269/274 (98.2%)
+# Gaps:           1/274 ( 0.4%)
+# Score: 1319.0
+# 
+#
+#=======================================
+
+b73_BM074185       1 TGTACATCATCTGCTTCCGCTAATATAAAAGACAACTATCAGTTGCTGGA     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07418      1 TGTACATCATCTGCTTCCGCTAATATAAAAGACAACTATCAGTTGCTGGA     50
+
+b73_BM074185      51 ACATAGAGGCAAACAAGCCGGAAAAAACAAAAG-AAAAAAAACAAACCAA     99
+                     ||||||||||||||||||||||||||||||||| ||||||||||||||||
+ph207_BM07418     51 ACATAGAGGCAAACAAGCCGGAAAAAACAAAAGAAAAAAAAACAAACCAA    100
+
+b73_BM074185     100 TCCTGGACCAACATGTTATACATGCAATCATCTGCAAATATAAAAGACAA    149
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM07418    101 TCCTGGACCAACATGTTATACATGCAATCATCTGCAAATATAAAAGACAA    150
+
+b73_BM074185     150 CCCCAGGAAGGCTCGTACCATCAGAACATCATGGCTAATATCACTACACA    199
+                     ||||||||||||||||||||.|||||||||||||||||||||||||||||
+ph207_BM07418    151 CCCCAGGAAGGCTCGTACCACCAGAACATCATGGCTAATATCACTACACA    200
+
+b73_BM074185     200 ACCAGTTCTCAGAGATTATATCTGCTACAGTTACTTGACAGATTAGAACT    249
+                     ||||||||||.||||||||||||||||||||||||||.|||||||.||||
+ph207_BM07418    201 ACCAGTTCTCTGAGATTATATCTGCTACAGTTACTTGCCAGATTATAACT    250
+
+b73_BM074185     250 TCTTGGGTCCAAACAGAAACAGCT    273
+                     ||||||||||||||||||||||||
+ph207_BM07418    251 TCTTGGGTCCAAACAGAAACAGCT    274
+
+
+#---------------------------------------
+#---------------------------------------

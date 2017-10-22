@@ -1,0 +1,58 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:23
+# Commandline: needle
+#    [-asequence] /tmp/Ov9w9i2d5_
+#    [-bsequence] /tmp/P1aX50bkoK
+#    -gapextend 0
+#    -auto
+#    [-outfile] BM337948_BM337948
+# Align_format: srspair
+# Report_file: BM337948_BM337948
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BM337948
+# 2: ph207_BM337948
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 288
+# Identity:     288/288 (100.0%)
+# Similarity:   288/288 (100.0%)
+# Gaps:           0/288 ( 0.0%)
+# Score: 1440.0
+# 
+#
+#=======================================
+
+b73_BM337948       1 GGTTATACCACCAGCCAAGCAAAAGCAGAGGAGAACCAGGGACGCAGTTA     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM33794      1 GGTTATACCACCAGCCAAGCAAAAGCAGAGGAGAACCAGGGACGCAGTTA     50
+
+b73_BM337948      51 ACAAACTCGTGCAGGACAAACGTATTAATTACAGTTACACCCAGGCATTT    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM33794     51 ACAAACTCGTGCAGGACAAACGTATTAATTACAGTTACACCCAGGCATTT    100
+
+b73_BM337948     101 CTCACATAGGTCTTCAACTTTAGCCAACCACCTCACCCGGCCCCAGCGCC    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM33794    101 CTCACATAGGTCTTCAACTTTAGCCAACCACCTCACCCGGCCCCAGCGCC    150
+
+b73_BM337948     151 ACACAGCAAAGCAAAGCACAGACAGAACTAGCAACGACGTCTGTATACAA    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM33794    151 ACACAGCAAAGCAAAGCACAGACAGAACTAGCAACGACGTCTGTATACAA    200
+
+b73_BM337948     201 ACGTCACACGGCCATTTCGCTCCAACCCCCCTCAGCTTCCCCTAAATTAC    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BM33794    201 ACGTCACACGGCCATTTCGCTCCAACCCCCCTCAGCTTCCCCTAAATTAC    250
+
+b73_BM337948     251 GTAACGTAACGTACCGTACCCGTGTATCGACAGAGAGA    288
+                     ||||||||||||||||||||||||||||||||||||||
+ph207_BM33794    251 GTAACGTAACGTACCGTACCCGTGTATCGACAGAGAGA    288
+
+
+#---------------------------------------
+#---------------------------------------

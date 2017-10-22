@@ -1,0 +1,66 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:27
+# Commandline: needle
+#    [-asequence] /tmp/qalUz147T2
+#    [-bsequence] /tmp/Tc8LE3yEfE
+#    -gapextend 0
+#    -auto
+#    [-outfile] AW066865_AW066865
+# Align_format: srspair
+# Report_file: AW066865_AW066865
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_AW066865
+# 2: ph207_AW066865
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 381
+# Identity:     380/381 (99.7%)
+# Similarity:   380/381 (99.7%)
+# Gaps:           0/381 ( 0.0%)
+# Score: 1896.0
+# 
+#
+#=======================================
+
+b73_AW066865       1 CGATTTCAAAGCGAACTGCTGATTACATGACTATTGCAAAACCTTGAAAG     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AW06686      1 CGATTTCAAAGCGAACTGCTGATTACATGACTATTGCAAAACCTTGAAAG     50
+
+b73_AW066865      51 AGAAAAAATCGATACAGCAATTCACTAGTAGGGACTAAACGCAGCGGTCT    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AW06686     51 AGAAAAAATCGATACAGCAATTCACTAGTAGGGACTAAACGCAGCGGTCT    100
+
+b73_AW066865     101 CTCTTCATCGGTCAACGAGTATTTGCACAAGCAAGCAGACCTCAATCCAT    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AW06686    101 CTCTTCATCGGTCAACGAGTATTTGCACAAGCAAGCAGACCTCAATCCAT    150
+
+b73_AW066865     151 GATCTATGTTAGTGGGTAGAAGACAGGGATGGCGAAAGAACAATCACTAT    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AW06686    151 GATCTATGTTAGTGGGTAGAAGACAGGGATGGCGAAAGAACAATCACTAT    200
+
+b73_AW066865     201 TGATCCACTCAGAAAGAATTACACGAGGTAAAAAAATCATCACGAAACAC    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AW06686    201 TGATCCACTCAGAAAGAATTACACGAGGTAAAAAAATCATCACGAAACAC    250
+
+b73_AW066865     251 CCTAGCTAGTTAGATCTACGAAATTTACGACGACGACGAGGAGGAGGATT    300
+                     ||||||||||||||||||||||||||||||||||.|||||||||||||||
+ph207_AW06686    251 CCTAGCTAGTTAGATCTACGAAATTTACGACGACAACGAGGAGGAGGATT    300
+
+b73_AW066865     301 ACAATGGCCTTGAACCAGAGGCATCAAGACCTCTGCTCTGGCTGTTGTTC    350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AW06686    301 ACAATGGCCTTGAACCAGAGGCATCAAGACCTCTGCTCTGGCTGTTGTTC    350
+
+b73_AW066865     351 CAGCTGGACTGGCTGAAATCCGTCGTGAAAT    381
+                     |||||||||||||||||||||||||||||||
+ph207_AW06686    351 CAGCTGGACTGGCTGAAATCCGTCGTGAAAT    381
+
+
+#---------------------------------------
+#---------------------------------------

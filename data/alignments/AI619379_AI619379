@@ -1,0 +1,58 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:03
+# Commandline: needle
+#    [-asequence] /tmp/j6to1o4mj6
+#    [-bsequence] /tmp/Vhle_7qaV8
+#    -gapextend 0
+#    -auto
+#    [-outfile] AI619379_AI619379
+# Align_format: srspair
+# Report_file: AI619379_AI619379
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_AI619379
+# 2: ph207_AI619379
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 295
+# Identity:     295/295 (100.0%)
+# Similarity:   295/295 (100.0%)
+# Gaps:           0/295 ( 0.0%)
+# Score: 1475.0
+# 
+#
+#=======================================
+
+b73_AI619379       1 CCGGACAAATCTGGTATTGGCAAACATAGATCCAATACAACAGCCCCACC     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI61937      1 CCGGACAAATCTGGTATTGGCAAACATAGATCCAATACAACAGCCCCACC     50
+
+b73_AI619379      51 AGGCACCAAGAATTCCAACTGATGCTACAGCAGTTAATCGACAAGGTCAA    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI61937     51 AGGCACCAAGAATTCCAACTGATGCTACAGCAGTTAATCGACAAGGTCAA    100
+
+b73_AI619379     101 AGCCTGACGCACGCCACGATGCCACCCACAAGAAAGAACACAGCACTCTT    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI61937    101 AGCCTGACGCACGCCACGATGCCACCCACAAGAAAGAACACAGCACTCTT    150
+
+b73_AI619379     151 CGTCCCGATTTAAACAATGCTAAACTGCTAACCAGTAAAAAAAAAACCCT    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI61937    151 CGTCCCGATTTAAACAATGCTAAACTGCTAACCAGTAAAAAAAAAACCCT    200
+
+b73_AI619379     201 CTCACCCTGTCACGGGGGGAGACAACGCATTGATCCGCCACGTACCACCA    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI61937    201 CTCACCCTGTCACGGGGGGAGACAACGCATTGATCCGCCACGTACCACCA    250
+
+b73_AI619379     251 GCCTCGCCATGGCCAGACTCCCGATCCCTCAGCATCCTCACGTAA    295
+                     |||||||||||||||||||||||||||||||||||||||||||||
+ph207_AI61937    251 GCCTCGCCATGGCCAGACTCCCGATCCCTCAGCATCCTCACGTAA    295
+
+
+#---------------------------------------
+#---------------------------------------

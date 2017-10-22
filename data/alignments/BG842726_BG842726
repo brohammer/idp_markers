@@ -1,0 +1,66 @@
+########################################
+# Program: needle
+# Rundate: Sun 22 Oct 2017 01:29:30
+# Commandline: needle
+#    [-asequence] /tmp/vT2EhGj89b
+#    [-bsequence] /tmp/jchCjoxW5L
+#    -gapextend 0
+#    -auto
+#    [-outfile] BG842726_BG842726
+# Align_format: srspair
+# Report_file: BG842726_BG842726
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: b73_BG842726
+# 2: ph207_BG842726
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.0
+#
+# Length: 380
+# Identity:     366/380 (96.3%)
+# Similarity:   366/380 (96.3%)
+# Gaps:          10/380 ( 2.6%)
+# Score: 1784.0
+# 
+#
+#=======================================
+
+b73_BG842726       1 TACACACTGCTGATGC--ATGGGAGCAGCAGGGGCGTTATTTTATGCATT     48
+                     ||||||||||||||||  ||||||||||||||||||||||||||||||||
+ph207_BG84272      1 TACACACTGCTGATGCATATGGGAGCAGCAGGGGCGTTATTTTATGCATT     50
+
+b73_BG842726      49 CATATTCGTTACAGGC----AGGCAAGCAGCATGCATACTGCATATGCAT     94
+                     ||||||||||||||||    |||||||||    |||||||||||||||||
+ph207_BG84272     51 CATATTCGTTACAGGCAGCTAGGCAAGCA----GCATACTGCATATGCAT     96
+
+b73_BG842726      95 GCATGCAGATGATCCGATCCATCGTTTTAGTTATTAGTTGGGGTTCACGT    144
+                     |||||||||||||||||||||||||||||||||||||||||||||.||||
+ph207_BG84272     97 GCATGCAGATGATCCGATCCATCGTTTTAGTTATTAGTTGGGGTTGACGT    146
+
+b73_BG842726     145 AGAGCCCGATCGCGTCCAGGCAATCTCCAGAGCGGCCAAAGAAGCCAGCG    194
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BG84272    147 AGAGCCCGATCGCGTCCAGGCAATCTCCAGAGCGGCCAAAGAAGCCAGCG    196
+
+b73_BG842726     195 ACGTGGCCGTTGTTCATCACCTTGACACGGAACGGGGTGCCCTCGTCCCT    244
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BG84272    197 ACGTGGCCGTTGTTCATCACCTTGACACGGAACGGGGTGCCCTCGTCCCT    246
+
+b73_BG842726     245 GCCGTACGGTCCGTAAGCGCGTTTGTTGGTGACGAATTTGAGAGACTTGA    294
+                     |||||||||||||||||..||||||||||||||.||||||||||||||||
+ph207_BG84272    247 GCCGTACGGTCCGTAAGTACGTTTGTTGGTGACAAATTTGAGAGACTTGA    296
+
+b73_BG842726     295 CCAGATTGTCAATGTTGTAGGCTGGGCCCGTGGTCCCGGAGATCTCCGTC    344
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ph207_BG84272    297 CCAGATTGTCAATGTTGTAGGCTGGGCCCGTGGTCCCGGAGATCTCCGTC    346
+
+b73_BG842726     345 AAGCTCTCGTCGAACCTGCACAGATCAATC    374
+                     ||||||||||||||||||||||||||||||
+ph207_BG84272    347 AAGCTCTCGTCGAACCTGCACAGATCAATC    376
+
+
+#---------------------------------------
+#---------------------------------------
