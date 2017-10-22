@@ -54,3 +54,12 @@ This script makes a system call to Java program called `msa2vcf`, which is a par
 
 This vcf output is pretty ugly and hard to read. Use the `munge/pretty_mismatch.pl` script to make this output more readable. 
 
+### Program versions  
+* `Emboss 6.5.7`  
+* `Blast 2.6.0`  
+* `Bioperl 1.7.1`  
+* `jvarkit`  
+* `BEDtools 2.25.0`  
+
+
+
