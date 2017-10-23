@@ -33,6 +33,10 @@ This script, `munge/blast.pl`, was submitted through a PBS wrapper, `munge/blast
 
 Blast outputs: `data/b73_blast_output.txt` and `data/ph207_blast_output.txt`.
 
+**Run:**
+`perl munge/blast.pl -i data/idp_markers.txt -s data/idp_markers.fasta -b data/bins.txt -g b73`  
+`perl munge/blast.pl -i data/idp_markers.txt -s data/idp_markers.fasta -b data/bins.txt -g ph207`   
+
 ## Convert coordinates  
 
 Use the blast hit coordinates to get the target sequence between the forwared and reverse primers:  
@@ -40,6 +44,9 @@ Use the blast hit coordinates to get the target sequence between the forwared an
 *  `munge/get_fasta.pl` - Use this script to call bedtools and get fasta from BED  
 
 The previous scripts can be ran together in the `munge/get_fasta.sh` wrapper. 
+
+**Run:**  
+`bash munge/get_fasta.sh`  
 
 ## Pairwise alignment  
 
@@ -50,9 +57,15 @@ I am using the Emboss needle program to perform the alignment:
 
 This script makes a system call to Java program called `msa2vcf`, which is a part of the jvarkit (~/software/jvarkit/dist/msa2vcf.jar). This program will parse the output of the MSA output and produce a VCF of variant sites. 
 
+**Run:**  
+`perl munge/run-needle-aln.pl -i data/idp_markers.txt -q data/b73_blast_output.fasta -s data/ph207_blast_output.fasta`
+
 ## Parsed output  
 
 This vcf output is pretty ugly and hard to read. Use the `munge/pretty_mismatch.pl` script to make this output more readable. 
+
+**Run:**  
+`perl munge/pretty_mismatch.pl -b data/b73_blast_output.txt -p data/ph207_blast_output.txt -m data/mismatches.vcf > data/mismatch_summary.txt`
 
 ### Program versions  
 * `Emboss 6.5.7`  
@@ -60,6 +73,3 @@ This vcf output is pretty ugly and hard to read. Use the `munge/pretty_mismatch.
 * `Bioperl 1.7.1`  
 * `jvarkit`  
 * `BEDtools 2.25.0`  
-
-
-
